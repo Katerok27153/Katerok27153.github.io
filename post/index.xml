@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Academic</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
       <title>Пост по прошедшей неделе (4.03.24 - 10.03.24)</title>
-      <link>https://example.com/post/post_1/</link>
+      <link>http://localhost:1313/post/post_1/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post_1/</guid>
+      <guid>http://localhost:1313/post/post_1/</guid>
       <description>&lt;h2 id=&#34;рабочая-неделя&#34;&gt;Рабочая неделя&lt;/h2&gt;
 &lt;p&gt;Эта неделя была запоминающейся и особенной! 8 марта - Международный женский день, поэтому пятница была выходным. В целом неделя пролетела быстро и незаметно. Посещала университет как обычно и в среду вечером отправилась на тренировку по танцы. В четверг вернулась домой в свой родной город Нижний Новгород на поезде, так как впереди длинные выходные.&lt;/p&gt;
 &lt;p&gt;emoji: 🌸🚂💃&lt;/p&gt;
@@ -56,7 +56,7 @@
                /post/post_1/%D1%8E%D0%BD%D0%B3%D0%B8_huc59cca40bf6037487c5ca8c9b23ee9e2_131720_5dc5f921de7727b688d02234b4a7fa2f.webp 400w,
                /post/post_1/%D1%8E%D0%BD%D0%B3%D0%B8_huc59cca40bf6037487c5ca8c9b23ee9e2_131720_791e10eaa38426bfa0bf8a718c6c01d5.webp 760w,
                /post/post_1/%D1%8E%D0%BD%D0%B3%D0%B8_huc59cca40bf6037487c5ca8c9b23ee9e2_131720_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_1/%D1%8E%D0%BD%D0%B3%D0%B8_huc59cca40bf6037487c5ca8c9b23ee9e2_131720_5dc5f921de7727b688d02234b4a7fa2f.webp&#34;
+               src=&#34;http://localhost:1313/post/post_1/%D1%8E%D0%BD%D0%B3%D0%B8_huc59cca40bf6037487c5ca8c9b23ee9e2_131720_5dc5f921de7727b688d02234b4a7fa2f.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -67,9 +67,9 @@
     
     <item>
       <title>Управление версиями. Git.</title>
-      <link>https://example.com/post/post_2/</link>
+      <link>http://localhost:1313/post/post_2/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post_2/</guid>
+      <guid>http://localhost:1313/post/post_2/</guid>
       <description>&lt;h2 id=&#34;о-системе-контроля-версий&#34;&gt;О системе контроля версий&lt;/h2&gt;
 &lt;p&gt;Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
 &lt;p&gt;Если вы графический или web-дизайнер и хотите сохранить каждую версию изображения или макета (скорее всего, захотите), система контроля версий (далее VCS) — как раз то, что нужно. Она позволяет вернуть файлы к состоянию, в котором они были до изменений, вернуть проект к исходному состоянию, увидеть изменения, увидеть, кто последний менял что-то и вызвал проблему, кто поставил задачу и когда и многое другое. Использование VCS также значит в целом, что, если вы сломали что-то или потеряли файлы, вы спокойно можете всё исправить. В дополнение ко всему вы получите всё это без каких-либо дополнительных усилий.&lt;/p&gt;
@@ -98,7 +98,7 @@
                /post/post_2/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp 400w,
                /post/post_2/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_a2a703ac3f8d04f25559d7442adff88c.webp 760w,
                /post/post_2/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_2/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp&#34;
+               src=&#34;http://localhost:1313/post/post_2/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp&#34;
                width=&#34;760&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -129,7 +129,7 @@
                /post/post_2/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp 400w,
                /post/post_2/2_hu74fb508a0af33a33fa0f541a94378552_22810_42d0eeea6ea2b8ccc599ff10f2bcf79c.webp 760w,
                /post/post_2/2_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_2/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
+               src=&#34;http://localhost:1313/post/post_2/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
                width=&#34;760&#34;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -161,7 +161,7 @@
                /post/post_2/3_hu7dff96406965f7bb87732a216019226c_26657_70250987bf7266d4389417b0b0508de0.webp 400w,
                /post/post_2/3_hu7dff96406965f7bb87732a216019226c_26657_86bb81a48ba9a95953e221f268702778.webp 760w,
                /post/post_2/3_hu7dff96406965f7bb87732a216019226c_26657_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_2/3_hu7dff96406965f7bb87732a216019226c_26657_70250987bf7266d4389417b0b0508de0.webp&#34;
+               src=&#34;http://localhost:1313/post/post_2/3_hu7dff96406965f7bb87732a216019226c_26657_70250987bf7266d4389417b0b0508de0.webp&#34;
                width=&#34;635&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
