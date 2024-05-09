@@ -67,45 +67,6 @@
     </item>
     
     <item>
-      <title>Пост по прошедшей неделе (29.04.24 - 5.05.24)</title>
-      <link>https://example.com/post/post_8/</link>
-      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post_8/</guid>
-      <description>&lt;h2 id=&#34;рабочая-неделя&#34;&gt;Рабочая неделя&lt;/h2&gt;
-&lt;p&gt;Всё было хорошо!!!
-Мне лень писать пост :)&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_6f35e6eaf8372099ada80f803862cebb.webp 400w,
-               /post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_ad6833a742f3ca8db0449577d2450749.webp 760w,
-               /post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_6f35e6eaf8372099ada80f803862cebb.webp&#34;
-               width=&#34;389&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Создание презентаций.</title>
       <link>https://example.com/post/post_6/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
@@ -218,338 +179,6 @@
 &lt;p&gt;Если вы хотите сделать качественную презентацию, а не работу на уровне «тяп-ляп», приступайте к ее созданию задолго до наступления мероприятия или воспользуйтесь посторонней помощью.&lt;/p&gt;
 &lt;p&gt;Когда презентация будет завершена, обязательно протестируйте ее несколько раз в разных условиях. Первая проверка — это демонстрация на вашем собственном компьютере. Убедитесь в том, что не допустили перечисленные выше ошибки, а также оцените свою работу в целом. Правильно оформленная презентация должна вызывать чувство гармонии, стиля и ощущение, что у ее автора есть вкус. После этого покажите презентацию преподавателю, если готовитесь к защите выпускной работы. Если вы по собственной инициативе выступаете на конференции или ином мероприятии, посоветуйтесь с опытными преподавателями, чтобы сделать свой доклад более эффектным.&lt;/p&gt;
 &lt;p&gt;Вторая проверка проводится непосредственно в аудитории, в которой состоится намеченное мероприятие. Студенты часто теряются только от того, что не умеют листать слайды с помощью пульта управления. Не волнуйтесь, это не сложнее, чем переключать каналы на пульте от телевизора. Подготовку к крупному мероприятию обычно начинают за несколько часов до его начала, так что у вас будет время научиться пользоваться соответствующим оборудованием или поправить неудачные слайды.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Языки научного программирования.</title>
-      <link>https://example.com/post/post_7/</link>
-      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post_7/</guid>
-      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_e4182f36fee0c334b4c46626f4b57b44.webp 400w,
-               /post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_9415175f820a5739f15daa75dfa5cb7f.webp 760w,
-               /post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_e4182f36fee0c334b4c46626f4b57b44.webp&#34;
-               width=&#34;318&#34;
-               height=&#34;159&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Программирование постоянно развивается, а с ним и языки программирования, которые используются разработчиками. Чтобы быть успешным в мире IT, важно выбрать актуальный и востребованный язык программирования для изучения.&lt;/p&gt;
-&lt;h2 id=&#34;языки-программирования&#34;&gt;Языки программирования&lt;/h2&gt;
-&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_710a08cfdfef5081d26f791e46d00676.webp 400w,
-               /post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_9bba4b1048b79181cbe61ee2fa3f54db.webp 760w,
-               /post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_710a08cfdfef5081d26f791e46d00676.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;391&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Python — язык программирования общего назначения с простым синтаксисом, что делает его идеальным для начинающих. Востребован в разработке веб‑приложений, научных исследований, машинного обучения и искусственного интеллекта. Благодаря богатой экосистеме библиотек и инструментов, Python продолжает удерживать позиции лидера.&lt;/p&gt;
-&lt;h3 id=&#34;javascript&#34;&gt;JavaScript&lt;/h3&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_4af08f6361c2f6e2878a0e7a16dafc6a.webp 400w,
-               /post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_239ef3d6d03a24754767d90e251abdb3.webp 760w,
-               /post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_4af08f6361c2f6e2878a0e7a16dafc6a.webp&#34;
-               width=&#34;700&#34;
-               height=&#34;319&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;JavaScript остается основным языком для веб‑разработки, отвечая за интерактивность и динамичность сайтов. С развитием фреймворков и библиотек, таких как React, Angular и Vue.js, JavaScript стал неотъемлемой частью современной веб‑разработки.&lt;/p&gt;
-&lt;h3 id=&#34;java&#34;&gt;Java&lt;/h3&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_d5e153310bf5c3f825cdaa7245641b85.webp 400w,
-               /post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_97e464d39ceca2c68da9588196a19398.webp 760w,
-               /post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_d5e153310bf5c3f825cdaa7245641b85.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;443&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Java занимает особое место среди языков программирования благодаря своей платформенной независимости и масштабируемости. Широко используется для разработки Android‑приложений и корпоративных систем. Обучение Java открывает доступ к широкому спектру возможностей в разных отраслях.&lt;/p&gt;
-&lt;h3 id=&#34;c&#34;&gt;C#&lt;/h3&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/post_7/C 400w,
-               /post/post_7/C 760w,
-               /post/post_7/C 1200w&#34;
-               src=&#34;https://example.com/post/post_7/C&#34;
-               width=&#34;760&#34;
-               height=&#34;345&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;C# разрабатывался Microsoft как часть платформы .NET и считается одним из самых универсальных языков программирования. Применяется для создания десктопных, веб‑ и мобильных приложений, а также игр на платформе Unity.&lt;/p&gt;
-&lt;h3 id=&#34;kotlin&#34;&gt;Kotlin&lt;/h3&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_4c708739304db22cd366a730dd736698.webp 400w,
-               /post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_503731f63101f30683dbb454fd5435d1.webp 760w,
-               /post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_4c708739304db22cd366a730dd736698.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;223&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Kotlin — современный язык программирования, разработанный JetBrains, который быстро набирает популярность благодаря своей совместимости с Java и удобству использования. Google официально поддерживает Kotlin для разработки Android‑приложений, что делает его востребованным языком среди мобильных разработчиков.&lt;/p&gt;
-&lt;h3 id=&#34;swift&#34;&gt;Swift&lt;/h3&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_765281a3427a076d8aea1913828d335f.webp 400w,
-               /post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_7a514398f2cc0590d7902ea0e071ded5.webp 760w,
-               /post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_765281a3427a076d8aea1913828d335f.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;234&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Swift — язык программирования, разработанный Apple для создания нативных приложений на платформах iOS, macOS, watchOS и tvOS. Быстрый и безопасный, Swift стал ключевым инструментом для разработчиков Apple и отличным выбором для тех, кто хочет заниматься разработкой мобильных приложений.&lt;/p&gt;
-&lt;h3 id=&#34;go&#34;&gt;Go&lt;/h3&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_2a0d656e0f39cb7efd96a5b1188c1309.webp 400w,
-               /post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_7b8b3ed2b7c4c97e4d37e9a9fe6d5392.webp 760w,
-               /post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_2a0d656e0f39cb7efd96a5b1188c1309.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;286&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Go, или Golang, — это язык программирования, созданный в Google для решения проблем масштабируемости и эффективности. Он легок в изучении, быстр и надежен, что делает его популярным для создания высокопроизводительных систем, таких как облачные сервисы и сетевые приложения.&lt;/p&gt;
-&lt;h3 id=&#34;rust&#34;&gt;Rust&lt;/h3&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;Rust.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Rust — язык программирования, разработанный Mozilla с акцентом на безопасность и производительность. Благодаря своим уникальным механизмам управления памятью и подходу к параллелизму, Rust привлекает внимание разработчиков и становится привлекательным языком для изучения.&lt;/p&gt;
-&lt;h3 id=&#34;typescript&#34;&gt;TypeScript&lt;/h3&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_913360edaec46fabe756adb47a8f1a2d.webp 400w,
-               /post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_cd42e089d09d888c64423fe524c9a191.webp 760w,
-               /post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_913360edaec46fabe756adb47a8f1a2d.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;187&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;TypeScript — это надстройка над JavaScript, разработанная Microsoft для улучшения статической типизации и масштабируемости кода. TypeScript позволяет обнаружить ошибки на этапе написания кода, что повышает качество и надежность разрабатываемых приложений. Интеграция с популярными фреймворками делает TypeScript востребованным языком среди веб‑разработчиков.&lt;/p&gt;
-&lt;h3 id=&#34;ruby&#34;&gt;Ruby&lt;/h3&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_fe9d11a3973163d6fd679b99d809ef32.webp 400w,
-               /post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_37d400b778a3ab4c512faf9a32baabc5.webp 760w,
-               /post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_fe9d11a3973163d6fd679b99d809ef32.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;309&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Ruby – еще один язык программирования общего назначения, известный своим выразительным и читаемым синтаксисом. Основным преимуществом Ruby является фреймворк Ruby on Rails, который значительно упрощает разработку веб-приложений и делает Ruby актуальным для веб-разработчиков.&lt;/p&gt;
 </description>
     </item>
     
@@ -996,6 +625,377 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Более того, многие DVCS могут одновременно взаимодействовать с несколькими удалёнными репозиториями, благодаря этому вы можете работать с различными группами людей, применяя различные подходы единовременно в рамках одного проекта. Это позволяет применять сразу несколько подходов в разработке, например, иерархические модели, что совершенно невозможно в централизованных системах.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе (29.04.24 - 5.05.24)</title>
+      <link>https://example.com/post/post_8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post_8/</guid>
+      <description>&lt;h2 id=&#34;рабочая-неделя&#34;&gt;Рабочая неделя&lt;/h2&gt;
+&lt;p&gt;Всё было хорошо!!!
+Мне лень писать пост :)&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_f73e2c506d0faa457620049d387d67a6.webp 400w,
+               /post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_2f11265bbd25101cb49618d3c4e024d0.webp 760w,
+               /post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_f73e2c506d0faa457620049d387d67a6.webp&#34;
+               width=&#34;389&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования.</title>
+      <link>https://example.com/post/post_7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post_7/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_b1d6c95dff25230f6c22426aa88b2e73.webp 400w,
+               /post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_4ab73e36481974e6342546537d756db8.webp 760w,
+               /post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_b1d6c95dff25230f6c22426aa88b2e73.webp&#34;
+               width=&#34;318&#34;
+               height=&#34;159&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Программирование постоянно развивается, а с ним и языки программирования, которые используются разработчиками. Чтобы быть успешным в мире IT, важно выбрать актуальный и востребованный язык программирования для изучения.&lt;/p&gt;
+&lt;h2 id=&#34;языки-программирования&#34;&gt;Языки программирования&lt;/h2&gt;
+&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_3c36669af24a657d5d18c6161ab45c03.webp 400w,
+               /post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_723bb7c379cd9a8989796d9200889143.webp 760w,
+               /post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_3c36669af24a657d5d18c6161ab45c03.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;391&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Python — язык программирования общего назначения с простым синтаксисом, что делает его идеальным для начинающих. Востребован в разработке веб‑приложений, научных исследований, машинного обучения и искусственного интеллекта. Благодаря богатой экосистеме библиотек и инструментов, Python продолжает удерживать позиции лидера.&lt;/p&gt;
+&lt;h3 id=&#34;javascript&#34;&gt;JavaScript&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_12859fd521a781ea5ff44560a5e355f8.webp 400w,
+               /post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_fca18d1c2ee76781c1fc92b478aff79d.webp 760w,
+               /post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_12859fd521a781ea5ff44560a5e355f8.webp&#34;
+               width=&#34;700&#34;
+               height=&#34;319&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;JavaScript остается основным языком для веб‑разработки, отвечая за интерактивность и динамичность сайтов. С развитием фреймворков и библиотек, таких как React, Angular и Vue.js, JavaScript стал неотъемлемой частью современной веб‑разработки.&lt;/p&gt;
+&lt;h3 id=&#34;java&#34;&gt;Java&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_6891753ec67db93b52ab8e06a78578ea.webp 400w,
+               /post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_b5efbad0bd80abe35e61a2b1e67724c1.webp 760w,
+               /post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_6891753ec67db93b52ab8e06a78578ea.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;443&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Java занимает особое место среди языков программирования благодаря своей платформенной независимости и масштабируемости. Широко используется для разработки Android‑приложений и корпоративных систем. Обучение Java открывает доступ к широкому спектру возможностей в разных отраслях.&lt;/p&gt;
+&lt;h3 id=&#34;c&#34;&gt;C#&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/post_7/C 400w,
+               /post/post_7/C 760w,
+               /post/post_7/C 1200w&#34;
+               src=&#34;https://example.com/post/post_7/C&#34;
+               width=&#34;760&#34;
+               height=&#34;345&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;C# разрабатывался Microsoft как часть платформы .NET и считается одним из самых универсальных языков программирования. Применяется для создания десктопных, веб‑ и мобильных приложений, а также игр на платформе Unity.&lt;/p&gt;
+&lt;h3 id=&#34;kotlin&#34;&gt;Kotlin&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_b2f4b9c41bc14f813da5dc136197e56a.webp 400w,
+               /post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_7ffd4df88b127a02c972aa72f96b9e80.webp 760w,
+               /post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_b2f4b9c41bc14f813da5dc136197e56a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;223&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Kotlin — современный язык программирования, разработанный JetBrains, который быстро набирает популярность благодаря своей совместимости с Java и удобству использования. Google официально поддерживает Kotlin для разработки Android‑приложений, что делает его востребованным языком среди мобильных разработчиков.&lt;/p&gt;
+&lt;h3 id=&#34;swift&#34;&gt;Swift&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_686acc91193da9b036a92f681d08aeac.webp 400w,
+               /post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_684d5c7907250f929512aab6699a3ee6.webp 760w,
+               /post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_686acc91193da9b036a92f681d08aeac.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;234&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Swift — язык программирования, разработанный Apple для создания нативных приложений на платформах iOS, macOS, watchOS и tvOS. Быстрый и безопасный, Swift стал ключевым инструментом для разработчиков Apple и отличным выбором для тех, кто хочет заниматься разработкой мобильных приложений.&lt;/p&gt;
+&lt;h3 id=&#34;go&#34;&gt;Go&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_77f003af9f97eaa4b73fb46608f16427.webp 400w,
+               /post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_956ff164e37d185e28d85dafe20dd20b.webp 760w,
+               /post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_77f003af9f97eaa4b73fb46608f16427.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;286&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Go, или Golang, — это язык программирования, созданный в Google для решения проблем масштабируемости и эффективности. Он легок в изучении, быстр и надежен, что делает его популярным для создания высокопроизводительных систем, таких как облачные сервисы и сетевые приложения.&lt;/p&gt;
+&lt;h3 id=&#34;rust&#34;&gt;Rust&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;Rust.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Rust — язык программирования, разработанный Mozilla с акцентом на безопасность и производительность. Благодаря своим уникальным механизмам управления памятью и подходу к параллелизму, Rust привлекает внимание разработчиков и становится привлекательным языком для изучения.&lt;/p&gt;
+&lt;h3 id=&#34;typescript&#34;&gt;TypeScript&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_8761a49a894f653ce4017c87f3d3743d.webp 400w,
+               /post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_7957a1395cd022df2ae35df1d07062c1.webp 760w,
+               /post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_8761a49a894f653ce4017c87f3d3743d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;187&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;TypeScript — это надстройка над JavaScript, разработанная Microsoft для улучшения статической типизации и масштабируемости кода. TypeScript позволяет обнаружить ошибки на этапе написания кода, что повышает качество и надежность разрабатываемых приложений. Интеграция с популярными фреймворками делает TypeScript востребованным языком среди веб‑разработчиков.&lt;/p&gt;
+&lt;h3 id=&#34;ruby&#34;&gt;Ruby&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_3e65d82f44e09b17ec6dc4cc6db9791c.webp 400w,
+               /post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_6aab8f07245c94cfca33f2a602a22578.webp 760w,
+               /post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_3e65d82f44e09b17ec6dc4cc6db9791c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;309&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Ruby – еще один язык программирования общего назначения, известный своим выразительным и читаемым синтаксисом. Основным преимуществом Ruby является фреймворк Ruby on Rails, который значительно упрощает разработку веб-приложений и делает Ruby актуальным для веб-разработчиков.&lt;/p&gt;
 </description>
     </item>
     

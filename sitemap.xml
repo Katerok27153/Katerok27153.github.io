@@ -34,15 +34,7 @@
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/post_8/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/post/post_6/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/post_7/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -119,7 +111,13 @@
     <loc>https://example.com/project/personalproject_1/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/post/post_8/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/project/personalproject_2/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/post_7/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
