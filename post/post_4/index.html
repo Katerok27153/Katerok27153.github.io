@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: May 10, 2024 --><html lang="en-us" >
+<!-- Last Published: May 22, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -271,7 +271,7 @@
 
 
 
-  <meta name="author" content="Верниковская Екатерина Андреевна" />
+  <meta name="author" content="Vernikovskaya Ekaterina Andreevna" />
 
 
 
@@ -279,9 +279,11 @@
 
   
 
-<meta name="description" content="В этом посте я расскажу вам, о языке разметки LaTeX и как оформлять формулы с помощью этого языка." />
+<meta name="description" content="In this post, I will tell you about the LaTeX markup language and how to design formulas using this language." />
 
 
+
+  <link rel="alternate" hreflang="ru" href="https://example.com/ru/post/post_4/" />
 
 <link rel="alternate" hreflang="en-us" href="https://example.com/post/post_4/" />
 <link rel="canonical" href="https://example.com/post/post_4/" />
@@ -327,8 +329,8 @@
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Academic" />
 <meta property="og:url" content="https://example.com/post/post_4/" />
-<meta property="og:title" content="Языки разметки. LaTeX. | Academic" />
-<meta property="og:description" content="В этом посте я расскажу вам, о языке разметки LaTeX и как оформлять формулы с помощью этого языка." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="Markup languages. LaTeX. | Academic" />
+<meta property="og:description" content="In this post, I will tell you about the LaTeX markup language and how to design formulas using this language." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -365,14 +367,14 @@
     "@type": "WebPage",
     "@id": "https://example.com/post/post_4/"
   },
-  "headline": "Языки разметки. LaTeX.",
+  "headline": "Markup languages. LaTeX.",
   
   "datePublished": "2024-04-01T00:00:00Z",
   "dateModified": "2024-04-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Верниковская Екатерина Андреевна"
+    "name": "Vernikovskaya Ekaterina Andreevna"
   },
   
   "publisher": {
@@ -383,7 +385,7 @@
       "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "В этом посте я расскажу вам, о языке разметки LaTeX и как оформлять формулы с помощью этого языка."
+  "description": "In this post, I will tell you about the LaTeX markup language and how to design formulas using this language."
 }
 </script>
 
@@ -405,7 +407,7 @@
 
 
   
-  <title>Языки разметки. LaTeX. | Academic</title>
+  <title>Markup languages. LaTeX. | Academic</title>
 
   
   
@@ -795,6 +797,22 @@
 
         
         
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link " data-toggle="dropdown"
+             aria-haspopup="true" aria-label="Languages">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>English</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://example.com/ru/post/post_4/">
+              <span>Русский</span>
+            </a>
+            
+          </div>
+        </li>
+        
 
       </ul>
 
@@ -832,7 +850,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Языки разметки. LaTeX.</h1>
+  <h1>Markup languages. LaTeX.</h1>
 
   
 
@@ -850,7 +868,7 @@
     
 
   <span class="author-highlighted">
-      Верниковская Екатерина Андреевна</span>
+      Vernikovskaya Ekaterina Andreevna</span>
   </div>
   
   
@@ -902,44 +920,44 @@
   <div class="article-container">
 
     <div class="article-style">
-      <h2 id="что-такое-latex">Что такое LaTeX?</h2>
-<p>LaTEX (произносится как «лэйтех» или «латех») представляет собой инструмент для создания профессиональных документов. В его основе лежит парадигма редактирования WYSIWYM (что вижу, то и подразумеваю), то есть от пользователя требуется сосредоточиться только на содержимом документа, оставив его форматирование программе. Вместо ручного распределения текста по странице, как это делается в Microsoft Word или LibreOffice Writer, можно просто его вводить, позволив LaTeX заняться остальным.</p>
-<h2 id="зачем-нужен-latex">Зачем нужен LaTeX?</h2>
-<p>Этот инструмент используется повсеместно для создания научных документов, написания книг, а также многих других форм публикаций. Он позволяет не только создавать красиво оформленные документы, но также дает пользователям возможность очень быстро реализовывать такие сложные элементы печатного набора, как математические выражения, таблицы, ссылки и библиографии, получая согласованную разметку по всем разделам.</p>
-<p>Благодаря доступности большого числа открытых библиотек (об этом чуть позже) возможности LaTEX становятся практически безграничны. Эти библиотеки расширяют возможности пользователей еще больше, позволяя добавлять сноски, рисовать схемы и пр.</p>
-<p>Одна из наиболее веских причин, по которой многие используют LaTeX, заключается в отделении содержания документа от его стиля. Это означает, что после написания содержимого, можно с легкостью изменять его внешний вид. Аналогичным образом, можно создать один стиль документа и использовать его для стандартизации внешнего вида других.</p>
-<p>Это позволяет научным журналам создавать шаблоны для предлагаемых на рассмотрение материалов. Такие шаблоны имеют заданную разметку, в результате чего добавить остается лишь содержание. На деле существуют сотни подобных шаблонов, начиная с различных резюме и заканчивая презентациями слайдов.</p>
-<h2 id="основные-моменты-работы">Основные моменты работы</h2>
-<p>Работа с LaTeX сводится к написанию кода, в котором есть несколько базовых компонентов и фрагментов. При этом, надо знать несколько нюансов:</p>
+      <h2 id="what-is-latex">What is LaTeX?</h2>
+<p>LaTEX (pronounced &ldquo;latech&rdquo; or &ldquo;latech&rdquo;) is a tool for creating professional documents. It is based on the WYSIWYM editing paradigm (what I see is what I mean), that is, the user is required to focus only on the contents of the document, leaving its formatting to the program. Instead of manually distributing the text on the page, as is done in Microsoft Word or LibreOffice Writer, you can simply type it, allowing LaTeX to do the rest.</p>
+<h2 id="why-do-i-need-latex">Why do I need LaTeX?</h2>
+<p>This tool is used everywhere to create scientific documents, write books, as well as many other forms of publications. It not only allows you to create beautifully designed documents, but also gives users the opportunity to quickly implement such complex elements of a printed set as mathematical expressions, tables, links and bibliographies, obtaining consistent markup across all sections.</p>
+<p>Due to the availability of a large number of open libraries (more on this later), the possibilities of LaTEX become almost limitless. These libraries empower users even more by allowing you to add footnotes, draw diagrams, etc.</p>
+<p>One of the most compelling reasons why many people use LaTeX is to separate the content of a document from its style. This means that after writing the content, you can easily change its appearance. Similarly, you can create one document style and use it to standardize the appearance of others.</p>
+<p>This allows scientific journals to create templates for the materials offered for consideration. Such templates have a set markup, as a result of which only the content remains to be added. In fact, there are hundreds of similar templates, ranging from various summaries to slide presentations.</p>
+<h2 id="highlights-of-the-work">Highlights of the work</h2>
+<p>Working with LaTeX boils down to writing code that has several basic components and fragments. At the same time, you need to know a few nuances:</p>
 <ul>
 <li>
-<p>Внутритекстовые формулы окружаются с обеих сторон знаками $.</p>
+<p>In-text formulas are surrounded on both sides by $ signs.</p>
 </li>
 <li>
-<p>Выключнные формулы (вынесенные в отдельную строку) окружаются знаками $ или парой команд [ и ]. Формулы, заключенные в $ всегда центрируются по горизонтали.</p>
+<p>Off formulas (placed in a separate line) are surrounded by $ signs or a pair of commands [ and ]. Formulas enclosed in $ are always centered horizontally.</p>
 </li>
 <li>
-<p>Внутритекстовые формулы, за исключением самых коротких, набираются отдельной строкой.</p>
+<p>In-text formulas, except for the shortest ones, are typed in a separate line.</p>
 </li>
 <li>
-<p>Для выравнивания документа служат теги: \flushleft — по левому краю, \flushrigth — по правому краю, \center — по центру.</p>
+<p>The following tags are used to align the document: \flushleft — on the left edge, \flushrigth — on the right edge, \center — in the center.</p>
 </li>
 <li>
-<p>Окружение verbatim по умолчанию помогает корректно отображать даже сложный программный код.</p>
+<p>Verbatim&rsquo;s default environment helps to correctly display even complex program code.</p>
 </li>
 <li>
-<p>Большинство математических функций и символов, а также скобки, матрицы и системы уравнений в синтаксисе LaTeX обозначаются тегами, начинающимися с символа .</p>
+<p>Most mathematical functions and symbols, as well as brackets, matrices and systems of equations in LaTeX syntax are indicated by tags starting with the \ symbol.</p>
 </li>
 <li>
-<p>Для работы с выражениями, которые занимают больше одной строки (то есть для аккуратного переноса текста или вычислений), можно использовать разделитель \.</p>
+<p>To work with expressions that take up more than one line (that is, for careful text wrapping or calculations), you can use the \ separator.</p>
 </li>
 <li>
-<p>Буквы греческого языка и лемниската, символ бесконечности и другие вводятся в виде тегов. хранится в одном месте, вы рискуете потерять всё.</p>
+<p>The letters of the Greek language and lemniscate, the infinity symbol and others are entered as tags. stored in one place, you risk losing everything.</p>
 </li>
 </ul>
-<h2 id="как-пользоваться-latex-в-редакторе-мойофис-текст">Как пользоваться LaTeX в редакторе «МойОфис Текст»</h2>
-<p>В МойОфис LaTeX используется для ввода формул и математических выражений.</p>
-<p>Чтобы вставить формулу заходим в меню «Вставка» на панели инструментов, выбираем пункт «Формула».</p>
+<h2 id="how-to-use-latex-in-the-editor-myoffice-text">How to use LaTeX in the editor &ldquo;MyOffice Text&rdquo;</h2>
+<p>In MyOffice, LaTeX is used to enter formulas and mathematical expressions.</p>
+<p>To insert a formula, go to the &ldquo;Insert&rdquo; menu on the toolbar, select the &ldquo;Formula&rdquo; item.</p>
 <p>
 
 
@@ -958,7 +976,7 @@
 
 <figure  >
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="МойОфис Текст" srcset="
+    <div class="w-100" ><img alt="MyOffice Text" srcset="
                /post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_bcc50253a70ad05160832327a7b2d948.webp 400w,
                /post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_0fb835475ab1f439c823f463a6b1c715.webp 760w,
                /post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_1200x1200_fit_q75_h2_lanczos.webp 1200w"
@@ -968,7 +986,7 @@
                loading="lazy" data-zoomable /></div>
   </div></figure>
 </p>
-<p>После подтверждения появится всплывающее окно с полями «Выражение LaTeX» и «Предварительный просмотр».</p>
+<p>After confirmation, a pop-up window will appear with the &ldquo;LaTeX Expression&rdquo; and &ldquo;Preview&rdquo; fields.</p>
 <p>
 
 
@@ -987,7 +1005,7 @@
 
 <figure  >
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="Окно Формула" srcset="
+    <div class="w-100" ><img alt="Formula Window" srcset="
                /post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_64f8c2006d355999f440da50793898e9.webp 400w,
                /post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_bed7dc058252655075ce32958371f66f.webp 760w,
                /post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_1200x1200_fit_q75_h2_lanczos.webp 1200w"
@@ -997,9 +1015,9 @@
                loading="lazy" data-zoomable /></div>
   </div></figure>
 </p>
-<p>Для примера введем простую формулу определенного интеграла функции f(x) на интервале [a, b]. Она будет иметь следующий вид.</p>
+<p>For example, we introduce a simple formula for a certain integral of the function f(x) on the interval [a, b]. It will look like this.</p>
 <p>\int_a^b f(x) dx</p>
-<p>В поле «Предварительный просмотр» можно сразу увидеть, как будет выглядеть итоговая формула. Это удобно — при необходимости вносить правки можно сразу по месту, а не после вставки формулы в документ.</p>
+<p>In the Preview field, you can immediately see what the final formula will look like. This is convenient — if necessary, you can make edits immediately on the spot, and not after inserting the formula into the document.</p>
 <p>
 
 
@@ -1018,7 +1036,7 @@
 
 <figure  >
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="Пример формулы" srcset="
+    <div class="w-100" ><img alt="Example formula" srcset="
                /post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_9279d864d8c6bc4e1936d531ed9a6694.webp 400w,
                /post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_793689d4b593d1fd0b50ac13f07d03c9.webp 760w,
                /post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_1200x1200_fit_q75_h2_lanczos.webp 1200w"
@@ -1028,9 +1046,9 @@
                loading="lazy" data-zoomable /></div>
   </div></figure>
 </p>
-<p>После вставки формулы ее, как и любой другой объект в редакторе «МойОфис Текст» можно перемещать, выравнивать и даже изменять размеры.</p>
-<p>Если формулу нужно отредактировать, достаточно дважды кликнуть по ней левой кнопкой мыши — откроется всплывающее окно с полями правок и предварительного просмотра.</p>
-<p>Удалить формулу можно клавишами [Backspace], [Del] или специальной кнопкой на панели инструментов.</p>
+<p>After inserting the formula, it, like any other object in the MyOffice Text editor, can be moved, aligned, and even resized.</p>
+<p>If you need to edit the formula, just double—click on it with the left mouse button - a pop-up window with edit and preview fields will open.</p>
+<p>You can delete a formula using the [Backspace], [Del] keys or a special button on the toolbar.</p>
 <p>
 
 
@@ -1049,7 +1067,7 @@
 
 <figure  >
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="Удаление формулы" srcset="
+    <div class="w-100" ><img alt="Deleting a formula" srcset="
                /post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_f9656c855fd2dd0e1dda19d4c19bfa81.webp 400w,
                /post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_33a2c4cfdc1ba197ba5079f785efd412.webp 760w,
                /post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_1200x1200_fit_q75_h2_lanczos.webp 1200w"
@@ -1059,7 +1077,7 @@
                loading="lazy" data-zoomable /></div>
   </div></figure>
 </p>
-<p>Аналогичным образом можно работать и с более сложными формулами. Например, рассмотрим условную функцию с четырьмя переменными. Для удобства чтения формулы сразу разделим ее на строки.</p>
+<p>You can work with more complex formulas in a similar way. For example, consider a conditional function with four variables. For the convenience of reading the formula, we will immediately divide it into lines.</p>
 <p>f(a,b,\delta, \gamma) =</p>
 <p>\frac{</p>
 <p>\sum \limits_{n=0}^{\infty} S_n \tan \left( \frac{104-2\delta \pi}{\mu} \right)+\gamma</p>
@@ -1067,7 +1085,7 @@
 <p>{</p>
 <p>\mathcal{F} {g(a,b)}</p>
 <p>}</p>
-<p>Сразу в поле предварительного просмотра можем увидеть, что формула отображается правильно.</p>
+<p>Immediately in the preview field we can see that the formula is displayed correctly.</p>
 <p>
 
 
@@ -1086,7 +1104,7 @@
 
 <figure  >
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="Более сложная формула" srcset="
+    <div class="w-100" ><img alt="A more complex formula" srcset="
                /post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_24f138d43c4653e08d159fd9870720d7.webp 400w,
                /post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_84ba0b1a0a14f539debe39e69b7ffa7d.webp 760w,
                /post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_1200x1200_fit_q75_h2_lanczos.webp 1200w"
@@ -1096,8 +1114,8 @@
                loading="lazy" data-zoomable /></div>
   </div></figure>
 </p>
-<p>При вставке в документ форматирование сохраняется.</p>
-<p>Примечательно, что редактор формул помогает найти ошибки. Например, если в указанной формуле мы поставим лишний пробел в операторе \gamma, при вставке редактор «МойОфис Текст» покажет ошибку — выделит место красным.</p>
+<p>Formatting is preserved when pasted into a document.</p>
+<p>It is noteworthy that the formula editor helps to find errors. For example, if we put an extra space in the \gamma operator in the specified formula, when inserting the editor &ldquo;MyOffice Text&rdquo; will show an error — it will highlight the place in red.</p>
 <p>
 
 
@@ -1116,7 +1134,7 @@
 
 <figure  >
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="Формула с ошибкой" srcset="
+    <div class="w-100" ><img alt="Formula with error" srcset="
                /post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_397691af03af26cc28c454b66c5afd67.webp 400w,
                /post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_4fad9b0ce96ecb92cd21ebf3b23158e1.webp 760w,
                /post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_1200x1200_fit_q75_h2_lanczos.webp 1200w"
@@ -1126,8 +1144,8 @@
                loading="lazy" data-zoomable /></div>
   </div></figure>
 </p>
-<p>Это удобно и защищает от случайных ошибок.</p>
-<p>С помощью LaTex, можно писать не только формулы, но и ещё редактировать тексты.</p>
+<p>This is convenient and protects against accidental errors.</p>
+<p>With LaTex, you can write not only formulas, but also edit texts.</p>
 
     </div>
 
@@ -1160,7 +1178,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost_4%2F&amp;text=%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8&#43;%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8.&#43;LaTeX." target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost_4%2F&amp;text=Markup&#43;languages.&#43;LaTeX." target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1177,7 +1195,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpost%2Fpost_4%2F&amp;t=%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8&#43;%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8.&#43;LaTeX." target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpost%2Fpost_4%2F&amp;t=Markup&#43;languages.&#43;LaTeX." target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1196,7 +1214,7 @@
         
       
       <li>
-        <a href="mailto:?subject=%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8.%20LaTeX.&amp;body=https%3A%2F%2Fexample.com%2Fpost%2Fpost_4%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Markup%20languages.%20LaTeX.&amp;body=https%3A%2F%2Fexample.com%2Fpost%2Fpost_4%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1213,7 +1231,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost_4%2F&amp;title=%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8&#43;%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8.&#43;LaTeX." target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost_4%2F&amp;title=Markup&#43;languages.&#43;LaTeX." target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1230,7 +1248,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8&#43;%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8.&#43;LaTeX.%20https%3A%2F%2Fexample.com%2Fpost%2Fpost_4%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Markup&#43;languages.&#43;LaTeX.%20https%3A%2F%2Fexample.com%2Fpost%2Fpost_4%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1247,7 +1265,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost_4%2F&amp;title=%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8&#43;%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8.&#43;LaTeX." target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost_4%2F&amp;title=Markup&#43;languages.&#43;LaTeX." target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1281,13 +1299,13 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu67d654b0a601cc35ce22b99535fceb16_113731_270x270_fill_q75_lanczos_center.jpg" alt="Верниковская Екатерина Андреевна"></a>
+      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu67d654b0a601cc35ce22b99535fceb16_113731_270x270_fill_q75_lanczos_center.jpg" alt="Vernikovskaya Ekaterina Andreevna"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://example.com/">Верниковская Екатерина Андреевна</a></h5>
-      <h6 class="card-subtitle">Студентка ФФМиЕН Российского университета дружбы народов</h6>
-      <p class="card-text">Учусь прикладывать информатику в дружбе народов.</p>
+      <h5 class="card-title"><a href="https://example.com/">Vernikovskaya Ekaterina Andreevna</a></h5>
+      <h6 class="card-subtitle">Student of the FFMiEN of the Peoples&rsquo; Friendship University of Russia</h6>
+      <p class="card-text">I am learning to apply computer science in the friendship of peoples.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
