@@ -30,6 +30,20 @@
                 href="https://katerok27153.github.io/en/event/"
                 />
   </url><url>
+    <loc>https://katerok27153.github.io/en/post/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://katerok27153.github.io/ru/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://katerok27153.github.io/en/post/"
+                />
+  </url><url>
     <loc>https://katerok27153.github.io/en/tag/academic/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -98,20 +112,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://katerok27153.github.io/en/post/post_5/"
-                />
-  </url><url>
-    <loc>https://katerok27153.github.io/en/post/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://katerok27153.github.io/en/post/"
                 />
   </url><url>
     <loc>https://katerok27153.github.io/en/tags/</loc>
@@ -350,6 +350,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://katerok27153.github.io/en/publication-type/paper-conference/"
+                />
+  </url><url>
+    <loc>https://katerok27153.github.io/en/post/post_10/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://katerok27153.github.io/ru/post/post_10/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://katerok27153.github.io/en/post/post_10/"
                 />
   </url><url>
     <loc>https://katerok27153.github.io/en/project/personalproject_1/</loc>
