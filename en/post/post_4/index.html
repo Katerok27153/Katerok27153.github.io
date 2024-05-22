@@ -1,0 +1,1756 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: May 22, 2024 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.f6689966c0a10712f95f034011917db0.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Vernikovskaya Ekaterina Andreevna" />
+
+
+
+
+
+  
+
+<meta name="description" content="In this post, I will tell you about the LaTeX markup language and how to design formulas using this language." />
+
+
+
+  <link rel="alternate" hreflang="ru" href="https://katerok27153.github.io/ru/post/post_4/" />
+
+<link rel="alternate" hreflang="en-us" href="https://katerok27153.github.io/en/post/post_4/" />
+<link rel="canonical" href="https://katerok27153.github.io/en/post/post_4/" />
+
+
+
+  <link rel="manifest" href="/en/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@GetResearchDev" />
+  <meta property="twitter:creator" content="@GetResearchDev" />
+<meta property="twitter:image" content="https://katerok27153.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Vernikovskaya E.A." />
+<meta property="og:url" content="https://katerok27153.github.io/en/post/post_4/" />
+<meta property="og:title" content="Markup languages. LaTeX. | Vernikovskaya E.A." />
+<meta property="og:description" content="In this post, I will tell you about the LaTeX markup language and how to design formulas using this language." /><meta property="og:image" content="https://katerok27153.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2024-04-01T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2024-04-01T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://katerok27153.github.io/en/post/post_4/"
+  },
+  "headline": "Markup languages. LaTeX.",
+  
+  "datePublished": "2024-04-01T00:00:00Z",
+  "dateModified": "2024-04-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Vernikovskaya Ekaterina Andreevna"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Vernikovskaya E.A.",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://katerok27153.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "In this post, I will tell you about the LaTeX markup language and how to design formulas using this language."
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Markup languages. LaTeX. | Vernikovskaya E.A.</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="f1ec0fc0e0ee368479d4987729d4201b" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.9e4214442a7711d35691acd58f6f6361.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/en/">Vernikovskaya E.A.</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/en/">Vernikovskaya E.A.</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/en/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/en/#posts"><span>Posts</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/en/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/en/#talks"><span>Talks</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/en/#featured"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/en/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link " data-toggle="dropdown"
+             aria-haspopup="true" aria-label="Languages">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>English</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://katerok27153.github.io/ru/post/post_4/">
+              <span>Русский</span>
+            </a>
+            
+          </div>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Markup languages. LaTeX.</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      Vernikovskaya Ekaterina Andreevna</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Apr 1, 2024
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    4 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/en/category/demo/">Demo</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h2 id="what-is-latex">What is LaTeX?</h2>
+<p>LaTEX (pronounced &ldquo;latech&rdquo; or &ldquo;latech&rdquo;) is a tool for creating professional documents. It is based on the WYSIWYM editing paradigm (what I see is what I mean), that is, the user is required to focus only on the contents of the document, leaving its formatting to the program. Instead of manually distributing the text on the page, as is done in Microsoft Word or LibreOffice Writer, you can simply type it, allowing LaTeX to do the rest.</p>
+<h2 id="why-do-i-need-latex">Why do I need LaTeX?</h2>
+<p>This tool is used everywhere to create scientific documents, write books, as well as many other forms of publications. It not only allows you to create beautifully designed documents, but also gives users the opportunity to quickly implement such complex elements of a printed set as mathematical expressions, tables, links and bibliographies, obtaining consistent markup across all sections.</p>
+<p>Due to the availability of a large number of open libraries (more on this later), the possibilities of LaTEX become almost limitless. These libraries empower users even more by allowing you to add footnotes, draw diagrams, etc.</p>
+<p>One of the most compelling reasons why many people use LaTeX is to separate the content of a document from its style. This means that after writing the content, you can easily change its appearance. Similarly, you can create one document style and use it to standardize the appearance of others.</p>
+<p>This allows scientific journals to create templates for the materials offered for consideration. Such templates have a set markup, as a result of which only the content remains to be added. In fact, there are hundreds of similar templates, ranging from various summaries to slide presentations.</p>
+<h2 id="highlights-of-the-work">Highlights of the work</h2>
+<p>Working with LaTeX boils down to writing code that has several basic components and fragments. At the same time, you need to know a few nuances:</p>
+<ul>
+<li>
+<p>In-text formulas are surrounded on both sides by $ signs.</p>
+</li>
+<li>
+<p>Off formulas (placed in a separate line) are surrounded by $ signs or a pair of commands [ and ]. Formulas enclosed in $ are always centered horizontally.</p>
+</li>
+<li>
+<p>In-text formulas, except for the shortest ones, are typed in a separate line.</p>
+</li>
+<li>
+<p>The following tags are used to align the document: \flushleft — on the left edge, \flushrigth — on the right edge, \center — in the center.</p>
+</li>
+<li>
+<p>Verbatim&rsquo;s default environment helps to correctly display even complex program code.</p>
+</li>
+<li>
+<p>Most mathematical functions and symbols, as well as brackets, matrices and systems of equations in LaTeX syntax are indicated by tags starting with the \ symbol.</p>
+</li>
+<li>
+<p>To work with expressions that take up more than one line (that is, for careful text wrapping or calculations), you can use the \ separator.</p>
+</li>
+<li>
+<p>The letters of the Greek language and lemniscate, the infinity symbol and others are entered as tags. stored in one place, you risk losing everything.</p>
+</li>
+</ul>
+<h2 id="how-to-use-latex-in-the-editor-myoffice-text">How to use LaTeX in the editor &ldquo;MyOffice Text&rdquo;</h2>
+<p>In MyOffice, LaTeX is used to enter formulas and mathematical expressions.</p>
+<p>To insert a formula, go to the &ldquo;Insert&rdquo; menu on the toolbar, select the &ldquo;Formula&rdquo; item.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="MyOffice Text" srcset="
+               /en/post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_bcc50253a70ad05160832327a7b2d948.webp 400w,
+               /en/post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_0fb835475ab1f439c823f463a6b1c715.webp 760w,
+               /en/post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/en/post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_bcc50253a70ad05160832327a7b2d948.webp"
+               width="760"
+               height="497"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>After confirmation, a pop-up window will appear with the &ldquo;LaTeX Expression&rdquo; and &ldquo;Preview&rdquo; fields.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Formula Window" srcset="
+               /en/post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_64f8c2006d355999f440da50793898e9.webp 400w,
+               /en/post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_bed7dc058252655075ce32958371f66f.webp 760w,
+               /en/post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/en/post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_64f8c2006d355999f440da50793898e9.webp"
+               width="480"
+               height="480"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>For example, we introduce a simple formula for a certain integral of the function f(x) on the interval [a, b]. It will look like this.</p>
+<p>\int_a^b f(x) dx</p>
+<p>In the Preview field, you can immediately see what the final formula will look like. This is convenient — if necessary, you can make edits immediately on the spot, and not after inserting the formula into the document.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Example formula" srcset="
+               /en/post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_9279d864d8c6bc4e1936d531ed9a6694.webp 400w,
+               /en/post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_793689d4b593d1fd0b50ac13f07d03c9.webp 760w,
+               /en/post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/en/post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_9279d864d8c6bc4e1936d531ed9a6694.webp"
+               width="488"
+               height="488"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>After inserting the formula, it, like any other object in the MyOffice Text editor, can be moved, aligned, and even resized.</p>
+<p>If you need to edit the formula, just double—click on it with the left mouse button - a pop-up window with edit and preview fields will open.</p>
+<p>You can delete a formula using the [Backspace], [Del] keys or a special button on the toolbar.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Deleting a formula" srcset="
+               /en/post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_f9656c855fd2dd0e1dda19d4c19bfa81.webp 400w,
+               /en/post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_33a2c4cfdc1ba197ba5079f785efd412.webp 760w,
+               /en/post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/en/post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_f9656c855fd2dd0e1dda19d4c19bfa81.webp"
+               width="760"
+               height="403"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>You can work with more complex formulas in a similar way. For example, consider a conditional function with four variables. For the convenience of reading the formula, we will immediately divide it into lines.</p>
+<p>f(a,b,\delta, \gamma) =</p>
+<p>\frac{</p>
+<p>\sum \limits_{n=0}^{\infty} S_n \tan \left( \frac{104-2\delta \pi}{\mu} \right)+\gamma</p>
+<p>}</p>
+<p>{</p>
+<p>\mathcal{F} {g(a,b)}</p>
+<p>}</p>
+<p>Immediately in the preview field we can see that the formula is displayed correctly.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="A more complex formula" srcset="
+               /en/post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_24f138d43c4653e08d159fd9870720d7.webp 400w,
+               /en/post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_84ba0b1a0a14f539debe39e69b7ffa7d.webp 760w,
+               /en/post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/en/post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_24f138d43c4653e08d159fd9870720d7.webp"
+               width="504"
+               height="510"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Formatting is preserved when pasted into a document.</p>
+<p>It is noteworthy that the formula editor helps to find errors. For example, if we put an extra space in the \gamma operator in the specified formula, when inserting the editor &ldquo;MyOffice Text&rdquo; will show an error — it will highlight the place in red.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Formula with error" srcset="
+               /en/post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_397691af03af26cc28c454b66c5afd67.webp 400w,
+               /en/post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_4fad9b0ce96ecb92cd21ebf3b23158e1.webp 760w,
+               /en/post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/en/post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_397691af03af26cc28c454b66c5afd67.webp"
+               width="546"
+               height="194"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>This is convenient and protects against accidental errors.</p>
+<p>With LaTex, you can write not only formulas, but also edit texts.</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/en/tag/academic/">Academic</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fkaterok27153.github.io%2Fen%2Fpost%2Fpost_4%2F&amp;text=Markup&#43;languages.&#43;LaTeX." target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fkaterok27153.github.io%2Fen%2Fpost%2Fpost_4%2F&amp;t=Markup&#43;languages.&#43;LaTeX." target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=Markup%20languages.%20LaTeX.&amp;body=https%3A%2F%2Fkaterok27153.github.io%2Fen%2Fpost%2Fpost_4%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fkaterok27153.github.io%2Fen%2Fpost%2Fpost_4%2F&amp;title=Markup&#43;languages.&#43;LaTeX." target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Markup&#43;languages.&#43;LaTeX.%20https%3A%2F%2Fkaterok27153.github.io%2Fen%2Fpost%2Fpost_4%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fkaterok27153.github.io%2Fen%2Fpost%2Fpost_4%2F&amp;title=Markup&#43;languages.&#43;LaTeX." target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://katerok27153.github.io/"><img class="avatar mr-3 avatar-circle" src="/en/authors/admin/avatar_hu67d654b0a601cc35ce22b99535fceb16_113731_270x270_fill_q75_lanczos_center.jpg" alt="Vernikovskaya Ekaterina Andreevna"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://katerok27153.github.io/">Vernikovskaya Ekaterina Andreevna</a></h5>
+      <h6 class="card-subtitle">Student of the FFMiEN of the Peoples&rsquo; Friendship University of Russia</h6>
+      <p class="card-text">I am learning to apply computer science in the friendship of peoples.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/en/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.elibrary.ru/project_user_office.asp" target="_blank" rel="noopener">
+        <i class="fab fa-etsy"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/my-orcid?orcid=0009-0001-6309-5268" target="_blank" rel="noopener">
+        <i class="fab fa-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.mendeley.com/" target="_blank" rel="noopener">
+        <i class="fab fa-mendeley"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Ekaterina-Vernikovskaya" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://independent.academia.edu/EkaterinaVernikovskaya" target="_blank" rel="noopener">
+        <i class="fab fa-autoprefixer"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://arxiv.org/user/" target="_blank" rel="noopener">
+        <i class="fas fa-archive"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/Katerok27153" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://vk.com/katerok27153" target="_blank" rel="noopener">
+        <i class="fab fa-vk"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2024 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.b2240102cb8b24bcbe037562ce2ea60a.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.0d344310ba75ea019adb1e7aa1de0b6a.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

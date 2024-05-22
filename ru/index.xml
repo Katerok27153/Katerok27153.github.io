@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/ru/</link>
-      <atom:link href="https://example.com/ru/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Vernikovskaya E.A.</title>
+    <link>https://katerok27153.github.io/ru/</link>
+      <atom:link href="https://katerok27153.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vernikovskaya E.A.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
-      <link>https://example.com/ru/</link>
+      <url>https://katerok27153.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Vernikovskaya E.A.</title>
+      <link>https://katerok27153.github.io/ru/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/ru/talk/example-talk/</link>
+      <link>https://katerok27153.github.io/ru/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/talk/example-talk/</guid>
+      <guid>https://katerok27153.github.io/ru/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Пост по прошедшей неделе (15.04.24 - 21.04.24)</title>
-      <link>https://example.com/ru/post/post_5/</link>
+      <link>https://katerok27153.github.io/ru/post/post_5/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post_5/</guid>
+      <guid>https://katerok27153.github.io/ru/post/post_5/</guid>
       <description>&lt;h2 id=&#34;рабочая-неделя&#34;&gt;Рабочая неделя&lt;/h2&gt;
 &lt;p&gt;Эта неделя была скучной!!! Ничего интересного не произошло :(&lt;/p&gt;
 &lt;p&gt;В среду я ходила на танцы. Мы танцевали &amp;ldquo;deja vu&amp;rdquo; - txt. Сначала мне эта хореография не особо понравилась, но потом очень понравилась!&lt;/p&gt;
@@ -64,7 +64,7 @@
                /ru/post/post_5/%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB_hu1cb6f4a525b95779f65a7b199e199725_47241_f24fb4b32403fc9aa9dfe3ab33694964.webp 400w,
                /ru/post/post_5/%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB_hu1cb6f4a525b95779f65a7b199e199725_47241_9679d07dead37c7105d92989d74fc137.webp 760w,
                /ru/post/post_5/%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB_hu1cb6f4a525b95779f65a7b199e199725_47241_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_5/%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB_hu1cb6f4a525b95779f65a7b199e199725_47241_f24fb4b32403fc9aa9dfe3ab33694964.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_5/%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB_hu1cb6f4a525b95779f65a7b199e199725_47241_f24fb4b32403fc9aa9dfe3ab33694964.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -88,9 +88,9 @@
     
     <item>
       <title>Создание презентаций.</title>
-      <link>https://example.com/ru/post/post_6/</link>
+      <link>https://katerok27153.github.io/ru/post/post_6/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post_6/</guid>
+      <guid>https://katerok27153.github.io/ru/post/post_6/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;
 
@@ -114,7 +114,7 @@
                /ru/post/post_6/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hue19078ae8b2f9e4fb5fcd0257ce87952_113933_405a5d01f1882eb2f35d29b2a0be45dc.webp 400w,
                /ru/post/post_6/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hue19078ae8b2f9e4fb5fcd0257ce87952_113933_cac1a29210bfc6b1b7239549994c0e85.webp 760w,
                /ru/post/post_6/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hue19078ae8b2f9e4fb5fcd0257ce87952_113933_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_6/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hue19078ae8b2f9e4fb5fcd0257ce87952_113933_405a5d01f1882eb2f35d29b2a0be45dc.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_6/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hue19078ae8b2f9e4fb5fcd0257ce87952_113933_405a5d01f1882eb2f35d29b2a0be45dc.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -176,7 +176,7 @@
                /ru/post/post_6/%D0%BA%D0%BE%D1%82%D1%8B_hub83e7dfe6cf35d51352fd1ca516cfd5a_1143178_bc5220ce951493e786aa2991f6d6bf9d.webp 400w,
                /ru/post/post_6/%D0%BA%D0%BE%D1%82%D1%8B_hub83e7dfe6cf35d51352fd1ca516cfd5a_1143178_2635220adf82403eafa7add36ccb5009.webp 760w,
                /ru/post/post_6/%D0%BA%D0%BE%D1%82%D1%8B_hub83e7dfe6cf35d51352fd1ca516cfd5a_1143178_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_6/%D0%BA%D0%BE%D1%82%D1%8B_hub83e7dfe6cf35d51352fd1ca516cfd5a_1143178_bc5220ce951493e786aa2991f6d6bf9d.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_6/%D0%BA%D0%BE%D1%82%D1%8B_hub83e7dfe6cf35d51352fd1ca516cfd5a_1143178_bc5220ce951493e786aa2991f6d6bf9d.webp&#34;
                width=&#34;760&#34;
                height=&#34;412&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -204,9 +204,9 @@
     
     <item>
       <title>Пост по прошедшей неделе (25.03.24 - 31.03.24)</title>
-      <link>https://example.com/ru/post/post_3/</link>
+      <link>https://katerok27153.github.io/ru/post/post_3/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post_3/</guid>
+      <guid>https://katerok27153.github.io/ru/post/post_3/</guid>
       <description>&lt;h2 id=&#34;рабочая-неделя&#34;&gt;Рабочая неделя&lt;/h2&gt;
 &lt;p&gt;Эта неделя была более-менее лёгкой. В понедельник я пропустила дистанционную пару по дискретной математике, так как ехала бить татуировку. Это моя самая первая татуировка и я очень рада. На ней изображены пальма, пляжный зонтик, шезлонг, волна и солнышко. А смысл в этой татуировки такой: я всегда мечатала жить на берегу моря или океана, лежать на пляже, так чтобы справа от меня была пальма, а слева пляжный зонтик и было +40 градусов.&lt;/p&gt;
 &lt;p&gt;В четверг я написала контрольную работу по математическому анализу. Я решила все задания и очень надеюсь, что у меня всё правильно!&lt;/p&gt;
@@ -233,7 +233,7 @@
                /ru/post/post_3/tattoo_huaefa815810cf480d5bb2d4b66beb7f9b_74784_e39c33172063f6d53c5550225c80d8bc.webp 400w,
                /ru/post/post_3/tattoo_huaefa815810cf480d5bb2d4b66beb7f9b_74784_03bc614faf54da208b66ce4eb9ae8218.webp 760w,
                /ru/post/post_3/tattoo_huaefa815810cf480d5bb2d4b66beb7f9b_74784_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_3/tattoo_huaefa815810cf480d5bb2d4b66beb7f9b_74784_e39c33172063f6d53c5550225c80d8bc.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_3/tattoo_huaefa815810cf480d5bb2d4b66beb7f9b_74784_e39c33172063f6d53c5550225c80d8bc.webp&#34;
                width=&#34;628&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -257,9 +257,9 @@
     
     <item>
       <title>Языки разметки. LaTeX.</title>
-      <link>https://example.com/ru/post/post_4/</link>
+      <link>https://katerok27153.github.io/ru/post/post_4/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post_4/</guid>
+      <guid>https://katerok27153.github.io/ru/post/post_4/</guid>
       <description>&lt;h2 id=&#34;что-такое-latex&#34;&gt;Что такое LaTeX?&lt;/h2&gt;
 &lt;p&gt;LaTEX (произносится как «лэйтех» или «латех») представляет собой инструмент для создания профессиональных документов. В его основе лежит парадигма редактирования WYSIWYM (что вижу, то и подразумеваю), то есть от пользователя требуется сосредоточиться только на содержимом документа, оставив его форматирование программе. Вместо ручного распределения текста по странице, как это делается в Microsoft Word или LibreOffice Writer, можно просто его вводить, позволив LaTeX заняться остальным.&lt;/p&gt;
 &lt;h2 id=&#34;зачем-нужен-latex&#34;&gt;Зачем нужен LaTeX?&lt;/h2&gt;
@@ -320,7 +320,7 @@
                /ru/post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_bcc50253a70ad05160832327a7b2d948.webp 400w,
                /ru/post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_0fb835475ab1f439c823f463a6b1c715.webp 760w,
                /ru/post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_bcc50253a70ad05160832327a7b2d948.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_bcc50253a70ad05160832327a7b2d948.webp&#34;
                width=&#34;760&#34;
                height=&#34;497&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -349,7 +349,7 @@
                /ru/post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_64f8c2006d355999f440da50793898e9.webp 400w,
                /ru/post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_bed7dc058252655075ce32958371f66f.webp 760w,
                /ru/post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_64f8c2006d355999f440da50793898e9.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_64f8c2006d355999f440da50793898e9.webp&#34;
                width=&#34;480&#34;
                height=&#34;480&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -380,7 +380,7 @@
                /ru/post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_9279d864d8c6bc4e1936d531ed9a6694.webp 400w,
                /ru/post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_793689d4b593d1fd0b50ac13f07d03c9.webp 760w,
                /ru/post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_9279d864d8c6bc4e1936d531ed9a6694.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_9279d864d8c6bc4e1936d531ed9a6694.webp&#34;
                width=&#34;488&#34;
                height=&#34;488&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -411,7 +411,7 @@
                /ru/post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_f9656c855fd2dd0e1dda19d4c19bfa81.webp 400w,
                /ru/post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_33a2c4cfdc1ba197ba5079f785efd412.webp 760w,
                /ru/post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_f9656c855fd2dd0e1dda19d4c19bfa81.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_f9656c855fd2dd0e1dda19d4c19bfa81.webp&#34;
                width=&#34;760&#34;
                height=&#34;403&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -448,7 +448,7 @@
                /ru/post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_24f138d43c4653e08d159fd9870720d7.webp 400w,
                /ru/post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_84ba0b1a0a14f539debe39e69b7ffa7d.webp 760w,
                /ru/post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_24f138d43c4653e08d159fd9870720d7.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_24f138d43c4653e08d159fd9870720d7.webp&#34;
                width=&#34;504&#34;
                height=&#34;510&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -478,7 +478,7 @@
                /ru/post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_397691af03af26cc28c454b66c5afd67.webp 400w,
                /ru/post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_4fad9b0ce96ecb92cd21ebf3b23158e1.webp 760w,
                /ru/post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_397691af03af26cc28c454b66c5afd67.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_397691af03af26cc28c454b66c5afd67.webp&#34;
                width=&#34;546&#34;
                height=&#34;194&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -491,9 +491,9 @@
     
     <item>
       <title>Пост по прошедшей неделе (4.03.24 - 10.03.24)</title>
-      <link>https://example.com/ru/post/post_1/</link>
+      <link>https://katerok27153.github.io/ru/post/post_1/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post_1/</guid>
+      <guid>https://katerok27153.github.io/ru/post/post_1/</guid>
       <description>&lt;h2 id=&#34;рабочая-неделя&#34;&gt;Рабочая неделя&lt;/h2&gt;
 &lt;p&gt;Эта неделя была запоминающейся и особенной! 8 марта - Международный женский день, поэтому пятница была выходным. В целом неделя пролетела быстро и незаметно. Посещала университет как обычно и в среду вечером отправилась на тренировку по танцы. В четверг вернулась домой в свой родной город Нижний Новгород на поезде, так как впереди длинные выходные.&lt;/p&gt;
 &lt;p&gt;emoji: 🌸🚂💃&lt;/p&gt;
@@ -533,7 +533,7 @@
                /ru/post/post_1/%D1%8E%D0%BD%D0%B3%D0%B8_huc59cca40bf6037487c5ca8c9b23ee9e2_131720_5dc5f921de7727b688d02234b4a7fa2f.webp 400w,
                /ru/post/post_1/%D1%8E%D0%BD%D0%B3%D0%B8_huc59cca40bf6037487c5ca8c9b23ee9e2_131720_791e10eaa38426bfa0bf8a718c6c01d5.webp 760w,
                /ru/post/post_1/%D1%8E%D0%BD%D0%B3%D0%B8_huc59cca40bf6037487c5ca8c9b23ee9e2_131720_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_1/%D1%8E%D0%BD%D0%B3%D0%B8_huc59cca40bf6037487c5ca8c9b23ee9e2_131720_5dc5f921de7727b688d02234b4a7fa2f.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_1/%D1%8E%D0%BD%D0%B3%D0%B8_huc59cca40bf6037487c5ca8c9b23ee9e2_131720_5dc5f921de7727b688d02234b4a7fa2f.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -544,9 +544,9 @@
     
     <item>
       <title>Управление версиями. Git.</title>
-      <link>https://example.com/ru/post/post_2/</link>
+      <link>https://katerok27153.github.io/ru/post/post_2/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post_2/</guid>
+      <guid>https://katerok27153.github.io/ru/post/post_2/</guid>
       <description>&lt;h2 id=&#34;о-системе-контроля-версий&#34;&gt;О системе контроля версий&lt;/h2&gt;
 &lt;p&gt;Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
 &lt;p&gt;Если вы графический или web-дизайнер и хотите сохранить каждую версию изображения или макета (скорее всего, захотите), система контроля версий (далее VCS) — как раз то, что нужно. Она позволяет вернуть файлы к состоянию, в котором они были до изменений, вернуть проект к исходному состоянию, увидеть изменения, увидеть, кто последний менял что-то и вызвал проблему, кто поставил задачу и когда и многое другое. Использование VCS также значит в целом, что, если вы сломали что-то или потеряли файлы, вы спокойно можете всё исправить. В дополнение ко всему вы получите всё это без каких-либо дополнительных усилий.&lt;/p&gt;
@@ -575,7 +575,7 @@
                /ru/post/post_2/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp 400w,
                /ru/post/post_2/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_a2a703ac3f8d04f25559d7442adff88c.webp 760w,
                /ru/post/post_2/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_2/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_2/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp&#34;
                width=&#34;760&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -606,7 +606,7 @@
                /ru/post/post_2/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp 400w,
                /ru/post/post_2/2_hu74fb508a0af33a33fa0f541a94378552_22810_42d0eeea6ea2b8ccc599ff10f2bcf79c.webp 760w,
                /ru/post/post_2/2_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_2/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_2/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
                width=&#34;760&#34;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -638,7 +638,7 @@
                /ru/post/post_2/3_hu7dff96406965f7bb87732a216019226c_26657_70250987bf7266d4389417b0b0508de0.webp 400w,
                /ru/post/post_2/3_hu7dff96406965f7bb87732a216019226c_26657_86bb81a48ba9a95953e221f268702778.webp 760w,
                /ru/post/post_2/3_hu7dff96406965f7bb87732a216019226c_26657_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_2/3_hu7dff96406965f7bb87732a216019226c_26657_70250987bf7266d4389417b0b0508de0.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_2/3_hu7dff96406965f7bb87732a216019226c_26657_70250987bf7266d4389417b0b0508de0.webp&#34;
                width=&#34;635&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -650,9 +650,9 @@
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/ru/publication/preprint/</link>
+      <link>https://katerok27153.github.io/ru/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/preprint/</guid>
+      <guid>https://katerok27153.github.io/ru/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -664,9 +664,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/ru/slides/example/</link>
+      <link>https://katerok27153.github.io/ru/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/slides/example/</guid>
+      <guid>https://katerok27153.github.io/ru/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -789,9 +789,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/ru/publication/journal-article/</link>
+      <link>https://katerok27153.github.io/ru/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/journal-article/</guid>
+      <guid>https://katerok27153.github.io/ru/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -808,9 +808,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/ru/publication/conference-paper/</link>
+      <link>https://katerok27153.github.io/ru/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/conference-paper/</guid>
+      <guid>https://katerok27153.github.io/ru/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -827,17 +827,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>Канала на YouTube с записями выполнения лабораторных работ</title>
-      <link>https://example.com/ru/project/personalproject_1/</link>
+      <link>https://katerok27153.github.io/ru/project/personalproject_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/personalproject_1/</guid>
+      <guid>https://katerok27153.github.io/ru/project/personalproject_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Пост по прошедшей неделе (29.04.24 - 5.05.24)</title>
-      <link>https://example.com/ru/post/post_8/</link>
+      <link>https://katerok27153.github.io/ru/post/post_8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post_8/</guid>
+      <guid>https://katerok27153.github.io/ru/post/post_8/</guid>
       <description>&lt;h2 id=&#34;рабочая-неделя&#34;&gt;Рабочая неделя&lt;/h2&gt;
 &lt;p&gt;Всё было хорошо!!!
 Мне лень писать пост :)&lt;/p&gt;
@@ -863,7 +863,7 @@ $$&lt;/p&gt;
                /ru/post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_f73e2c506d0faa457620049d387d67a6.webp 400w,
                /ru/post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_2f11265bbd25101cb49618d3c4e024d0.webp 760w,
                /ru/post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_f73e2c506d0faa457620049d387d67a6.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_f73e2c506d0faa457620049d387d67a6.webp&#34;
                width=&#34;389&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -874,9 +874,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Сравнительный анализ файловых систем (FAT, NTFS, ext4)</title>
-      <link>https://example.com/ru/project/personalproject_2/</link>
+      <link>https://katerok27153.github.io/ru/project/personalproject_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/personalproject_2/</guid>
+      <guid>https://katerok27153.github.io/ru/project/personalproject_2/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;h3 id=&#34;что-такое-файловая-система&#34;&gt;Что такое файловая система?&lt;/h3&gt;
 &lt;p&gt;Каждому пользователю компьютерных электронных устройств редко, но приходится сталкиваться с таким понятием, как «выбор файловой системы». Чаще всего это происходит при необходимости форматирования внешних накопителей (флешек, microSD), установке операционных систем, восстановлении данных на
@@ -1256,9 +1256,9 @@ ext4 предоставляют более продвинутые возможн
     
     <item>
       <title>Языки научного программирования.</title>
-      <link>https://example.com/ru/post/post_7/</link>
+      <link>https://katerok27153.github.io/ru/post/post_7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post_7/</guid>
+      <guid>https://katerok27153.github.io/ru/post/post_7/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;
 
@@ -1282,7 +1282,7 @@ ext4 предоставляют более продвинутые возможн
                /ru/post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_b1d6c95dff25230f6c22426aa88b2e73.webp 400w,
                /ru/post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_4ab73e36481974e6342546537d756db8.webp 760w,
                /ru/post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_b1d6c95dff25230f6c22426aa88b2e73.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_b1d6c95dff25230f6c22426aa88b2e73.webp&#34;
                width=&#34;318&#34;
                height=&#34;159&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1313,7 +1313,7 @@ ext4 предоставляют более продвинутые возможн
                /ru/post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_3c36669af24a657d5d18c6161ab45c03.webp 400w,
                /ru/post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_723bb7c379cd9a8989796d9200889143.webp 760w,
                /ru/post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_3c36669af24a657d5d18c6161ab45c03.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_3c36669af24a657d5d18c6161ab45c03.webp&#34;
                width=&#34;760&#34;
                height=&#34;391&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1343,7 +1343,7 @@ ext4 предоставляют более продвинутые возможн
                /ru/post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_12859fd521a781ea5ff44560a5e355f8.webp 400w,
                /ru/post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_fca18d1c2ee76781c1fc92b478aff79d.webp 760w,
                /ru/post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_12859fd521a781ea5ff44560a5e355f8.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_12859fd521a781ea5ff44560a5e355f8.webp&#34;
                width=&#34;700&#34;
                height=&#34;319&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1373,7 +1373,7 @@ ext4 предоставляют более продвинутые возможн
                /ru/post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_6891753ec67db93b52ab8e06a78578ea.webp 400w,
                /ru/post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_b5efbad0bd80abe35e61a2b1e67724c1.webp 760w,
                /ru/post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_6891753ec67db93b52ab8e06a78578ea.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_6891753ec67db93b52ab8e06a78578ea.webp&#34;
                width=&#34;760&#34;
                height=&#34;443&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1403,7 +1403,7 @@ ext4 предоставляют более продвинутые возможн
                /ru/post/post_7/C 400w,
                /ru/post/post_7/C 760w,
                /ru/post/post_7/C 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_7/C&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_7/C&#34;
                width=&#34;760&#34;
                height=&#34;345&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1433,7 +1433,7 @@ ext4 предоставляют более продвинутые возможн
                /ru/post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_b2f4b9c41bc14f813da5dc136197e56a.webp 400w,
                /ru/post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_7ffd4df88b127a02c972aa72f96b9e80.webp 760w,
                /ru/post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_b2f4b9c41bc14f813da5dc136197e56a.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_b2f4b9c41bc14f813da5dc136197e56a.webp&#34;
                width=&#34;760&#34;
                height=&#34;223&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1463,7 +1463,7 @@ ext4 предоставляют более продвинутые возможн
                /ru/post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_686acc91193da9b036a92f681d08aeac.webp 400w,
                /ru/post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_684d5c7907250f929512aab6699a3ee6.webp 760w,
                /ru/post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_686acc91193da9b036a92f681d08aeac.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_686acc91193da9b036a92f681d08aeac.webp&#34;
                width=&#34;760&#34;
                height=&#34;234&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1493,7 +1493,7 @@ ext4 предоставляют более продвинутые возможн
                /ru/post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_77f003af9f97eaa4b73fb46608f16427.webp 400w,
                /ru/post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_956ff164e37d185e28d85dafe20dd20b.webp 760w,
                /ru/post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_77f003af9f97eaa4b73fb46608f16427.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_77f003af9f97eaa4b73fb46608f16427.webp&#34;
                width=&#34;760&#34;
                height=&#34;286&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1546,7 +1546,7 @@ ext4 предоставляют более продвинутые возможн
                /ru/post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_8761a49a894f653ce4017c87f3d3743d.webp 400w,
                /ru/post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_7957a1395cd022df2ae35df1d07062c1.webp 760w,
                /ru/post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_8761a49a894f653ce4017c87f3d3743d.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_8761a49a894f653ce4017c87f3d3743d.webp&#34;
                width=&#34;760&#34;
                height=&#34;187&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1576,7 +1576,7 @@ ext4 предоставляют более продвинутые возможн
                /ru/post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_3e65d82f44e09b17ec6dc4cc6db9791c.webp 400w,
                /ru/post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_6aab8f07245c94cfca33f2a602a22578.webp 760w,
                /ru/post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_3e65d82f44e09b17ec6dc4cc6db9791c.webp&#34;
+               src=&#34;https://katerok27153.github.io/ru/post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_3e65d82f44e09b17ec6dc4cc6db9791c.webp&#34;
                width=&#34;760&#34;
                height=&#34;309&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

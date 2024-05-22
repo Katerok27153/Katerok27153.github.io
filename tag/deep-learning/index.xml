@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning | Academic</title>
-    <link>https://example.com/tag/deep-learning/</link>
-      <atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/deep-learning/</link>
+      <atom:link href="http://localhost:1313/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
-      <link>https://example.com/tag/deep-learning/</link>
+      <link>http://localhost:1313/tag/deep-learning/</link>
     </image>
     
     <item>
       <title>A YouTube channel with recordings of laboratory work</title>
-      <link>https://example.com/project/personalproject_1/</link>
+      <link>http://localhost:1313/project/personalproject_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/personalproject_1/</guid>
+      <guid>http://localhost:1313/project/personalproject_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparative analysis of file systems (FAT, NTFS, ext4)</title>
-      <link>https://example.com/project/personalproject_2/</link>
+      <link>http://localhost:1313/project/personalproject_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/personalproject_2/</guid>
+      <guid>http://localhost:1313/project/personalproject_2/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;h3 id=&#34;what-is-a-file-system&#34;&gt;What is a file system?&lt;/h3&gt;
 &lt;p&gt;It is rare for every user of computer electronic devices, but they have to deal with such a concept as &amp;ldquo;choosing a file system&amp;rdquo;. Most often this happens when it is necessary to format external drives (flash drives, microSD), install operating systems, restore data to
