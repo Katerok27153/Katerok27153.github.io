@@ -407,6 +407,16 @@
   </url><url>
     <loc>https://katerok27153.github.io/ru/project/personalproject_3/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://katerok27153.github.io/en/project/personalproject_3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://katerok27153.github.io/ru/project/personalproject_3/"
+                />
   </url><url>
     <loc>https://katerok27153.github.io/ru/post/post_10/</loc>
     <changefreq>weekly</changefreq>
