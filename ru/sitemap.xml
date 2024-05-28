@@ -2,472 +2,472 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://katerok27153.github.io/ru/talk/example-talk/</loc>
+    <loc>http://localhost:1313/ru/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/talk/example-talk/"
+                href="http://localhost:1313/en/talk/example-talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/talk/example-talk/"
+                href="http://localhost:1313/ru/talk/example-talk/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/event/</loc>
+    <loc>http://localhost:1313/ru/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/event/"
+                href="http://localhost:1313/en/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/event/"
+                href="http://localhost:1313/ru/event/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/tag/academic/</loc>
+    <loc>http://localhost:1313/ru/tag/academic/</loc>
     <lastmod>2024-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/tag/academic/"
+                href="http://localhost:1313/en/tag/academic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/tag/academic/"
+                href="http://localhost:1313/ru/tag/academic/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/categories/</loc>
+    <loc>http://localhost:1313/ru/categories/</loc>
     <lastmod>2024-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/categories/"
+                href="http://localhost:1313/ru/categories/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/category/demo/</loc>
+    <loc>http://localhost:1313/ru/category/demo/</loc>
     <lastmod>2024-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/category/demo/"
+                href="http://localhost:1313/en/category/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/category/demo/"
+                href="http://localhost:1313/ru/category/demo/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/post/</loc>
+    <loc>http://localhost:1313/ru/post/</loc>
     <lastmod>2024-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/post/"
+                href="http://localhost:1313/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/post/"
+                href="http://localhost:1313/ru/post/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/tags/</loc>
+    <loc>http://localhost:1313/ru/tags/</loc>
     <lastmod>2024-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/tags/"
+                href="http://localhost:1313/ru/tags/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/post/post_9/</loc>
+    <loc>http://localhost:1313/ru/post/post_9/</loc>
     <lastmod>2024-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/post/post_9/"
+                href="http://localhost:1313/en/post/post_9/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/post/post_9/"
+                href="http://localhost:1313/ru/post/post_9/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/post/post_5/</loc>
+    <loc>http://localhost:1313/ru/post/post_5/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/post/post_5/"
+                href="http://localhost:1313/en/post/post_5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/post/post_5/"
+                href="http://localhost:1313/ru/post/post_5/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/post/post_6/</loc>
+    <loc>http://localhost:1313/ru/post/post_6/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/post/post_6/"
+                href="http://localhost:1313/en/post/post_6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/post/post_6/"
+                href="http://localhost:1313/ru/post/post_6/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/post/post_3/</loc>
+    <loc>http://localhost:1313/ru/post/post_3/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/post/post_3/"
+                href="http://localhost:1313/en/post/post_3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/post/post_3/"
+                href="http://localhost:1313/ru/post/post_3/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/post/post_4/</loc>
+    <loc>http://localhost:1313/ru/post/post_4/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/post/post_4/"
+                href="http://localhost:1313/en/post/post_4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/post/post_4/"
+                href="http://localhost:1313/ru/post/post_4/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/post/post_1/</loc>
+    <loc>http://localhost:1313/ru/post/post_1/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/post/post_1/"
+                href="http://localhost:1313/en/post/post_1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/post/post_1/"
+                href="http://localhost:1313/ru/post/post_1/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/post/post_2/</loc>
+    <loc>http://localhost:1313/ru/post/post_2/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/post/post_2/"
+                href="http://localhost:1313/en/post/post_2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/post/post_2/"
+                href="http://localhost:1313/ru/post/post_2/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/</loc>
+    <loc>http://localhost:1313/ru/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/"
+                href="http://localhost:1313/ru/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/publication/preprint/</loc>
+    <loc>http://localhost:1313/ru/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/publication/preprint/"
+                href="http://localhost:1313/en/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/publication/preprint/"
+                href="http://localhost:1313/ru/publication/preprint/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/publication-type/article/</loc>
+    <loc>http://localhost:1313/ru/publication-type/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/publication-type/article/"
+                href="http://localhost:1313/en/publication-type/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/publication-type/article/"
+                href="http://localhost:1313/ru/publication-type/article/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/publication_types/</loc>
+    <loc>http://localhost:1313/ru/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/publication_types/"
+                href="http://localhost:1313/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/publication_types/"
+                href="http://localhost:1313/ru/publication_types/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/publication/</loc>
+    <loc>http://localhost:1313/ru/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/publication/"
+                href="http://localhost:1313/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/publication/"
+                href="http://localhost:1313/ru/publication/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/tag/source-themes/</loc>
+    <loc>http://localhost:1313/ru/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/tag/source-themes/"
+                href="http://localhost:1313/en/tag/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/tag/source-themes/"
+                href="http://localhost:1313/ru/tag/source-themes/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/slides/</loc>
+    <loc>http://localhost:1313/ru/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/slides/"
+                href="http://localhost:1313/en/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/slides/"
+                href="http://localhost:1313/ru/slides/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/slides/example/</loc>
+    <loc>http://localhost:1313/ru/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/slides/example/"
+                href="http://localhost:1313/en/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/slides/example/"
+                href="http://localhost:1313/ru/slides/example/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/publication/journal-article/</loc>
+    <loc>http://localhost:1313/ru/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/publication/journal-article/"
+                href="http://localhost:1313/en/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/publication/journal-article/"
+                href="http://localhost:1313/ru/publication/journal-article/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/publication-type/article-journal/</loc>
+    <loc>http://localhost:1313/ru/publication-type/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/publication-type/article-journal/"
+                href="http://localhost:1313/en/publication-type/article-journal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/publication-type/article-journal/"
+                href="http://localhost:1313/ru/publication-type/article-journal/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/publication/conference-paper/</loc>
+    <loc>http://localhost:1313/ru/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/publication/conference-paper/"
+                href="http://localhost:1313/en/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/publication/conference-paper/"
+                href="http://localhost:1313/ru/publication/conference-paper/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/publication-type/paper-conference/</loc>
+    <loc>http://localhost:1313/ru/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/publication-type/paper-conference/"
+                href="http://localhost:1313/en/publication-type/paper-conference/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/publication-type/paper-conference/"
+                href="http://localhost:1313/ru/publication-type/paper-conference/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/tag/deep-learning/</loc>
+    <loc>http://localhost:1313/ru/tag/deep-learning/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/tag/deep-learning/"
+                href="http://localhost:1313/en/tag/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/tag/deep-learning/"
+                href="http://localhost:1313/ru/tag/deep-learning/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/project/</loc>
+    <loc>http://localhost:1313/ru/project/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/project/"
+                href="http://localhost:1313/en/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/project/"
+                href="http://localhost:1313/ru/project/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/project/personalproject_1/</loc>
+    <loc>http://localhost:1313/ru/project/personalproject_1/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/project/personalproject_1/"
+                href="http://localhost:1313/en/project/personalproject_1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/project/personalproject_1/"
+                href="http://localhost:1313/ru/project/personalproject_1/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/project/personalproject_3/</loc>
+    <loc>http://localhost:1313/ru/project/personalproject_3/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/project/personalproject_3/"
+                href="http://localhost:1313/en/project/personalproject_3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/project/personalproject_3/"
+                href="http://localhost:1313/ru/project/personalproject_3/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/post/post_10/</loc>
+    <loc>http://localhost:1313/ru/post/post_10/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/post/post_10/"
+                href="http://localhost:1313/en/post/post_10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/post/post_10/"
+                href="http://localhost:1313/ru/post/post_10/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/post/post_8/</loc>
+    <loc>http://localhost:1313/ru/post/post_8/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/post/post_8/"
+                href="http://localhost:1313/en/post/post_8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/post/post_8/"
+                href="http://localhost:1313/ru/post/post_8/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/project/personalproject_2/</loc>
+    <loc>http://localhost:1313/ru/project/personalproject_2/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/project/personalproject_2/"
+                href="http://localhost:1313/en/project/personalproject_2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/project/personalproject_2/"
+                href="http://localhost:1313/ru/project/personalproject_2/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/ru/post/post_7/</loc>
+    <loc>http://localhost:1313/ru/post/post_7/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/post/post_7/"
+                href="http://localhost:1313/en/post/post_7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/post/post_7/"
+                href="http://localhost:1313/ru/post/post_7/"
                 />
   </url>
 </urlset>
