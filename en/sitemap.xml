@@ -431,17 +431,30 @@
                 href="https://katerok27153.github.io/en/post/post_8/"
                 />
   </url><url>
-    <loc>https://katerok27153.github.io/en/project/personalproject_4/</loc>
+    <loc>https://katerok27153.github.io/en/project/personalproject_5/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://katerok27153.github.io/ru/project/personalproject_4/"
+                href="https://katerok27153.github.io/ru/project/personalproject_5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://katerok27153.github.io/en/project/personalproject_4/"
+                href="https://katerok27153.github.io/en/project/personalproject_5/"
+                />
+  </url><url>
+    <loc>https://katerok27153.github.io/en/project/personalproject_6/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://katerok27153.github.io/ru/project/personalproject_6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://katerok27153.github.io/en/project/personalproject_6/"
                 />
   </url><url>
     <loc>https://katerok27153.github.io/en/project/</loc>
@@ -481,6 +494,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://katerok27153.github.io/en/project/personalproject_3/"
+                />
+  </url><url>
+    <loc>https://katerok27153.github.io/en/project/personalproject_4/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://katerok27153.github.io/ru/project/personalproject_4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://katerok27153.github.io/en/project/personalproject_4/"
                 />
   </url>
 </urlset>
