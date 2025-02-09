@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Vernikovskaya E.A.</title>
-    <link>https://katerok27153.github.io/en/category/demo/</link>
-      <atom:link href="https://katerok27153.github.io/en/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/category/demo/</link>
+      <atom:link href="http://localhost:1313/en/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://katerok27153.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>https://katerok27153.github.io/en/category/demo/</link>
+      <link>http://localhost:1313/en/category/demo/</link>
     </image>
     
     <item>
       <title>Last week&#39;s post (13.05.24 - 19.05.24)</title>
-      <link>https://katerok27153.github.io/en/post/post_9/</link>
+      <link>http://localhost:1313/en/post/post_9/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://katerok27153.github.io/en/post/post_9/</guid>
+      <guid>http://localhost:1313/en/post/post_9/</guid>
       <description>&lt;h2 id=&#34;work-week&#34;&gt;Work week&lt;/h2&gt;
 &lt;p&gt;I wrote a CD on the sampling to the maximum!&lt;/p&gt;
 &lt;p&gt;They taught &amp;ldquo;HALAZIA&amp;rdquo; at the dances - Ateez&lt;/p&gt;
@@ -42,7 +42,7 @@
                /en/post/post_9/images_hu169b630f3d06a8614768cfde8c714fe4_41772_312153d64ae4840f5aeaab500244ffaa.webp 400w,
                /en/post/post_9/images_hu169b630f3d06a8614768cfde8c714fe4_41772_ba171738c9ec3866c30ca6dedd8b75bb.webp 760w,
                /en/post/post_9/images_hu169b630f3d06a8614768cfde8c714fe4_41772_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_9/images_hu169b630f3d06a8614768cfde8c714fe4_41772_312153d64ae4840f5aeaab500244ffaa.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_9/images_hu169b630f3d06a8614768cfde8c714fe4_41772_312153d64ae4840f5aeaab500244ffaa.webp&#34;
                width=&#34;495&#34;
                height=&#34;619&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -53,9 +53,9 @@
     
     <item>
       <title>Creating presentations.</title>
-      <link>https://katerok27153.github.io/en/post/post_6/</link>
+      <link>http://localhost:1313/en/post/post_6/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://katerok27153.github.io/en/post/post_6/</guid>
+      <guid>http://localhost:1313/en/post/post_6/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;
 
@@ -79,7 +79,7 @@
                /en/post/post_6/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hue19078ae8b2f9e4fb5fcd0257ce87952_113933_405a5d01f1882eb2f35d29b2a0be45dc.webp 400w,
                /en/post/post_6/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hue19078ae8b2f9e4fb5fcd0257ce87952_113933_cac1a29210bfc6b1b7239549994c0e85.webp 760w,
                /en/post/post_6/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hue19078ae8b2f9e4fb5fcd0257ce87952_113933_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_6/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hue19078ae8b2f9e4fb5fcd0257ce87952_113933_405a5d01f1882eb2f35d29b2a0be45dc.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_6/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hue19078ae8b2f9e4fb5fcd0257ce87952_113933_405a5d01f1882eb2f35d29b2a0be45dc.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -141,7 +141,7 @@
                /en/post/post_6/%D0%BA%D0%BE%D1%82%D1%8B_hub83e7dfe6cf35d51352fd1ca516cfd5a_1143178_bc5220ce951493e786aa2991f6d6bf9d.webp 400w,
                /en/post/post_6/%D0%BA%D0%BE%D1%82%D1%8B_hub83e7dfe6cf35d51352fd1ca516cfd5a_1143178_2635220adf82403eafa7add36ccb5009.webp 760w,
                /en/post/post_6/%D0%BA%D0%BE%D1%82%D1%8B_hub83e7dfe6cf35d51352fd1ca516cfd5a_1143178_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_6/%D0%BA%D0%BE%D1%82%D1%8B_hub83e7dfe6cf35d51352fd1ca516cfd5a_1143178_bc5220ce951493e786aa2991f6d6bf9d.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_6/%D0%BA%D0%BE%D1%82%D1%8B_hub83e7dfe6cf35d51352fd1ca516cfd5a_1143178_bc5220ce951493e786aa2991f6d6bf9d.webp&#34;
                width=&#34;760&#34;
                height=&#34;412&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -169,9 +169,9 @@
     
     <item>
       <title>Last week&#39;s post (15.04.24 - 21.04.24)</title>
-      <link>https://katerok27153.github.io/en/post/post_5/</link>
+      <link>http://localhost:1313/en/post/post_5/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://katerok27153.github.io/en/post/post_5/</guid>
+      <guid>http://localhost:1313/en/post/post_5/</guid>
       <description>&lt;h2 id=&#34;рабочая-неделя&#34;&gt;Рабочая неделя&lt;/h2&gt;
 &lt;h2 id=&#34;work-week&#34;&gt;Work week&lt;/h2&gt;
 &lt;p&gt;This week has been boring!!! Nothing interesting happened:(&lt;/p&gt;
@@ -200,7 +200,7 @@
                /en/post/post_5/%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB_hu1cb6f4a525b95779f65a7b199e199725_47241_f24fb4b32403fc9aa9dfe3ab33694964.webp 400w,
                /en/post/post_5/%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB_hu1cb6f4a525b95779f65a7b199e199725_47241_9679d07dead37c7105d92989d74fc137.webp 760w,
                /en/post/post_5/%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB_hu1cb6f4a525b95779f65a7b199e199725_47241_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_5/%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB_hu1cb6f4a525b95779f65a7b199e199725_47241_f24fb4b32403fc9aa9dfe3ab33694964.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_5/%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB_hu1cb6f4a525b95779f65a7b199e199725_47241_f24fb4b32403fc9aa9dfe3ab33694964.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -224,9 +224,9 @@ The sun would be better!&lt;/p&gt;
     
     <item>
       <title>Last week&#39;s post (25.03.24 - 31.03.24)</title>
-      <link>https://katerok27153.github.io/en/post/post_3/</link>
+      <link>http://localhost:1313/en/post/post_3/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://katerok27153.github.io/en/post/post_3/</guid>
+      <guid>http://localhost:1313/en/post/post_3/</guid>
       <description>&lt;h2 id=&#34;work-week&#34;&gt;Work week&lt;/h2&gt;
 &lt;p&gt;This week has been more or less easy. On Monday, I missed a remote couple in discrete mathematics, as I was on my way to beat a tattoo. This is my very first tattoo and I am very happy. It depicts a palm tree, a beach umbrella, a chaise longue, a wave and the sun. And the meaning of this tattoo is like this: I always wanted to live by the sea or ocean, lie on the beach, so that there was a palm tree on my right and a beach umbrella on my left and it was +40 degrees.&lt;/p&gt;
 &lt;p&gt;On Thursday, I wrote a test paper on mathematical analysis. I have solved all the tasks and I really hope that everything is right for me!&lt;/p&gt;
@@ -253,7 +253,7 @@ The sun would be better!&lt;/p&gt;
                /en/post/post_3/tattoo_huaefa815810cf480d5bb2d4b66beb7f9b_74784_e39c33172063f6d53c5550225c80d8bc.webp 400w,
                /en/post/post_3/tattoo_huaefa815810cf480d5bb2d4b66beb7f9b_74784_03bc614faf54da208b66ce4eb9ae8218.webp 760w,
                /en/post/post_3/tattoo_huaefa815810cf480d5bb2d4b66beb7f9b_74784_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_3/tattoo_huaefa815810cf480d5bb2d4b66beb7f9b_74784_e39c33172063f6d53c5550225c80d8bc.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_3/tattoo_huaefa815810cf480d5bb2d4b66beb7f9b_74784_e39c33172063f6d53c5550225c80d8bc.webp&#34;
                width=&#34;628&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -277,9 +277,9 @@ The sun would be better!&lt;/p&gt;
     
     <item>
       <title>Markup languages. LaTeX.</title>
-      <link>https://katerok27153.github.io/en/post/post_4/</link>
+      <link>http://localhost:1313/en/post/post_4/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://katerok27153.github.io/en/post/post_4/</guid>
+      <guid>http://localhost:1313/en/post/post_4/</guid>
       <description>&lt;h2 id=&#34;what-is-latex&#34;&gt;What is LaTeX?&lt;/h2&gt;
 &lt;p&gt;LaTEX (pronounced &amp;ldquo;latech&amp;rdquo; or &amp;ldquo;latech&amp;rdquo;) is a tool for creating professional documents. It is based on the WYSIWYM editing paradigm (what I see is what I mean), that is, the user is required to focus only on the contents of the document, leaving its formatting to the program. Instead of manually distributing the text on the page, as is done in Microsoft Word or LibreOffice Writer, you can simply type it, allowing LaTeX to do the rest.&lt;/p&gt;
 &lt;h2 id=&#34;why-do-i-need-latex&#34;&gt;Why do I need LaTeX?&lt;/h2&gt;
@@ -340,7 +340,7 @@ The sun would be better!&lt;/p&gt;
                /en/post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_bcc50253a70ad05160832327a7b2d948.webp 400w,
                /en/post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_0fb835475ab1f439c823f463a6b1c715.webp 760w,
                /en/post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_bcc50253a70ad05160832327a7b2d948.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_4/1_hu1d25f9e9e2778b12fb33b8e49400fddf_50115_bcc50253a70ad05160832327a7b2d948.webp&#34;
                width=&#34;760&#34;
                height=&#34;497&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -369,7 +369,7 @@ The sun would be better!&lt;/p&gt;
                /en/post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_64f8c2006d355999f440da50793898e9.webp 400w,
                /en/post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_bed7dc058252655075ce32958371f66f.webp 760w,
                /en/post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_64f8c2006d355999f440da50793898e9.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_4/2_huc38827a0111a8862111cabaad793a433_14730_64f8c2006d355999f440da50793898e9.webp&#34;
                width=&#34;480&#34;
                height=&#34;480&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -400,7 +400,7 @@ The sun would be better!&lt;/p&gt;
                /en/post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_9279d864d8c6bc4e1936d531ed9a6694.webp 400w,
                /en/post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_793689d4b593d1fd0b50ac13f07d03c9.webp 760w,
                /en/post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_9279d864d8c6bc4e1936d531ed9a6694.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_4/3_hufeceaa9f087493c23a514ca2988c6fa8_15227_9279d864d8c6bc4e1936d531ed9a6694.webp&#34;
                width=&#34;488&#34;
                height=&#34;488&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -431,7 +431,7 @@ The sun would be better!&lt;/p&gt;
                /en/post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_f9656c855fd2dd0e1dda19d4c19bfa81.webp 400w,
                /en/post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_33a2c4cfdc1ba197ba5079f785efd412.webp 760w,
                /en/post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_f9656c855fd2dd0e1dda19d4c19bfa81.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_4/4_hu4ce39a933827e1887341b12e343f9485_38905_f9656c855fd2dd0e1dda19d4c19bfa81.webp&#34;
                width=&#34;760&#34;
                height=&#34;403&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -468,7 +468,7 @@ The sun would be better!&lt;/p&gt;
                /en/post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_24f138d43c4653e08d159fd9870720d7.webp 400w,
                /en/post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_84ba0b1a0a14f539debe39e69b7ffa7d.webp 760w,
                /en/post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_24f138d43c4653e08d159fd9870720d7.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_4/5_hue900ade123a07779212010aaf3492a67_25023_24f138d43c4653e08d159fd9870720d7.webp&#34;
                width=&#34;504&#34;
                height=&#34;510&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -498,7 +498,7 @@ The sun would be better!&lt;/p&gt;
                /en/post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_397691af03af26cc28c454b66c5afd67.webp 400w,
                /en/post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_4fad9b0ce96ecb92cd21ebf3b23158e1.webp 760w,
                /en/post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_397691af03af26cc28c454b66c5afd67.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_4/6_hu1d1ae8db25992ebea9f88b5e4f7410f7_10419_397691af03af26cc28c454b66c5afd67.webp&#34;
                width=&#34;546&#34;
                height=&#34;194&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -511,9 +511,9 @@ The sun would be better!&lt;/p&gt;
     
     <item>
       <title>Last week&#39;s post (4.03.24 - 10.03.24)</title>
-      <link>https://katerok27153.github.io/en/post/post_1/</link>
+      <link>http://localhost:1313/en/post/post_1/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://katerok27153.github.io/en/post/post_1/</guid>
+      <guid>http://localhost:1313/en/post/post_1/</guid>
       <description>&lt;h2 id=&#34;working-week&#34;&gt;Working week&lt;/h2&gt;
 &lt;p&gt;This week was memorable and special! March 8 is International Women&amp;rsquo;s Day, so Friday was a day off. In general, the week passed quickly and unnoticed. I attended the university as usual and went to dance practice on Wednesday evening. On Thursday, I returned home to my hometown of Nizhny Novgorod by train, as there is a long weekend ahead.&lt;/p&gt;
 &lt;p&gt;emoji: 🌸🚂💃&lt;/p&gt;
@@ -553,7 +553,7 @@ The sun would be better!&lt;/p&gt;
                /en/post/post_1/%D1%8E%D0%BD%D0%B3%D0%B8_huc59cca40bf6037487c5ca8c9b23ee9e2_131720_5dc5f921de7727b688d02234b4a7fa2f.webp 400w,
                /en/post/post_1/%D1%8E%D0%BD%D0%B3%D0%B8_huc59cca40bf6037487c5ca8c9b23ee9e2_131720_791e10eaa38426bfa0bf8a718c6c01d5.webp 760w,
                /en/post/post_1/%D1%8E%D0%BD%D0%B3%D0%B8_huc59cca40bf6037487c5ca8c9b23ee9e2_131720_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_1/%D1%8E%D0%BD%D0%B3%D0%B8_huc59cca40bf6037487c5ca8c9b23ee9e2_131720_5dc5f921de7727b688d02234b4a7fa2f.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_1/%D1%8E%D0%BD%D0%B3%D0%B8_huc59cca40bf6037487c5ca8c9b23ee9e2_131720_5dc5f921de7727b688d02234b4a7fa2f.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -564,9 +564,9 @@ The sun would be better!&lt;/p&gt;
     
     <item>
       <title>Version control. Git.</title>
-      <link>https://katerok27153.github.io/en/post/post_2/</link>
+      <link>http://localhost:1313/en/post/post_2/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://katerok27153.github.io/en/post/post_2/</guid>
+      <guid>http://localhost:1313/en/post/post_2/</guid>
       <description>&lt;h2 id=&#34;about-the-version-control-system&#34;&gt;About the version control system&lt;/h2&gt;
 &lt;p&gt;What is a &amp;ldquo;version control system&amp;rdquo; and why is it important? A version control system is a system that records changes to a file or set of files over time and allows you to revert to a specific version later. For file version control, this book will use the source code of the software as an example, although in fact you can use version control for almost any type of file.&lt;/p&gt;
 &lt;p&gt;If you are a graphic or web designer and want to save every version of an image or layout (most likely you will), a version control system (hereinafter referred to as VCS) is just what you need. It allows you to return files to the state they were in before the changes, return the project to its original state, see the changes, see who last changed something and caused the problem, who set the task and when, and much more. Using VCS also means in general that if you break something or lose files, you can safely fix everything. In addition to everything, you will get it all without any extra effort.&lt;/p&gt;
@@ -595,7 +595,7 @@ The sun would be better!&lt;/p&gt;
                /en/post/post_2/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp 400w,
                /en/post/post_2/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_a2a703ac3f8d04f25559d7442adff88c.webp 760w,
                /en/post/post_2/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_2/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_2/1_hufcb633eabb4ce248b64f5422c2c69f5a_20255_7dea048445c495e32aed14824d931f27.webp&#34;
                width=&#34;760&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -626,7 +626,7 @@ The sun would be better!&lt;/p&gt;
                /en/post/post_2/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp 400w,
                /en/post/post_2/2_hu74fb508a0af33a33fa0f541a94378552_22810_42d0eeea6ea2b8ccc599ff10f2bcf79c.webp 760w,
                /en/post/post_2/2_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_2/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_2/2_hu74fb508a0af33a33fa0f541a94378552_22810_5270c9cc3d509c774dbcc76125f1c678.webp&#34;
                width=&#34;760&#34;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -658,7 +658,7 @@ The sun would be better!&lt;/p&gt;
                /en/post/post_2/3_hu7dff96406965f7bb87732a216019226c_26657_70250987bf7266d4389417b0b0508de0.webp 400w,
                /en/post/post_2/3_hu7dff96406965f7bb87732a216019226c_26657_86bb81a48ba9a95953e221f268702778.webp 760w,
                /en/post/post_2/3_hu7dff96406965f7bb87732a216019226c_26657_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_2/3_hu7dff96406965f7bb87732a216019226c_26657_70250987bf7266d4389417b0b0508de0.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_2/3_hu7dff96406965f7bb87732a216019226c_26657_70250987bf7266d4389417b0b0508de0.webp&#34;
                width=&#34;635&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -670,9 +670,9 @@ The sun would be better!&lt;/p&gt;
     
     <item>
       <title>A post on a topic of your choice</title>
-      <link>https://katerok27153.github.io/en/post/post_10/</link>
+      <link>http://localhost:1313/en/post/post_10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://katerok27153.github.io/en/post/post_10/</guid>
+      <guid>http://localhost:1313/en/post/post_10/</guid>
       <description>&lt;p&gt;I didn&amp;rsquo;t choose anything(((&lt;/p&gt;
 &lt;p&gt;
 
@@ -696,7 +696,7 @@ The sun would be better!&lt;/p&gt;
                /en/post/post_10/cat_hu5bb5852b00b7108517a1abab98033a0f_7383_ff9587cc8e99e8e1fef79a154389327f.webp 400w,
                /en/post/post_10/cat_hu5bb5852b00b7108517a1abab98033a0f_7383_e52660a46354eb3b7a14be4530513bd6.webp 760w,
                /en/post/post_10/cat_hu5bb5852b00b7108517a1abab98033a0f_7383_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_10/cat_hu5bb5852b00b7108517a1abab98033a0f_7383_ff9587cc8e99e8e1fef79a154389327f.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_10/cat_hu5bb5852b00b7108517a1abab98033a0f_7383_ff9587cc8e99e8e1fef79a154389327f.webp&#34;
                width=&#34;284&#34;
                height=&#34;177&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -707,9 +707,9 @@ The sun would be better!&lt;/p&gt;
     
     <item>
       <title>Last week&#39;s post (29.04.24 - 5.05.24)</title>
-      <link>https://katerok27153.github.io/en/post/post_8/</link>
+      <link>http://localhost:1313/en/post/post_8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://katerok27153.github.io/en/post/post_8/</guid>
+      <guid>http://localhost:1313/en/post/post_8/</guid>
       <description>&lt;h2 id=&#34;work-week&#34;&gt;Work week&lt;/h2&gt;
 &lt;p&gt;Everything was fine!!!
 I&amp;rsquo;m too lazy to write a post :)&lt;/p&gt;
@@ -735,7 +735,7 @@ I&amp;rsquo;m too lazy to write a post :)&lt;/p&gt;
                /en/post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_f73e2c506d0faa457620049d387d67a6.webp 400w,
                /en/post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_2f11265bbd25101cb49618d3c4e024d0.webp 760w,
                /en/post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_f73e2c506d0faa457620049d387d67a6.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_8/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_hu1469c4d1ccfb1161ed1445c7ce800ee1_83779_f73e2c506d0faa457620049d387d67a6.webp&#34;
                width=&#34;389&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -746,9 +746,9 @@ I&amp;rsquo;m too lazy to write a post :)&lt;/p&gt;
     
     <item>
       <title>Scientific programming languages.</title>
-      <link>https://katerok27153.github.io/en/post/post_7/</link>
+      <link>http://localhost:1313/en/post/post_7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://katerok27153.github.io/en/post/post_7/</guid>
+      <guid>http://localhost:1313/en/post/post_7/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;
 
@@ -772,7 +772,7 @@ I&amp;rsquo;m too lazy to write a post :)&lt;/p&gt;
                /en/post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_b1d6c95dff25230f6c22426aa88b2e73.webp 400w,
                /en/post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_4ab73e36481974e6342546537d756db8.webp 760w,
                /en/post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_b1d6c95dff25230f6c22426aa88b2e73.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_7/%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_hua1a9b9d35a7861e8714a0302c604396f_14265_b1d6c95dff25230f6c22426aa88b2e73.webp&#34;
                width=&#34;318&#34;
                height=&#34;159&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -803,7 +803,7 @@ I&amp;rsquo;m too lazy to write a post :)&lt;/p&gt;
                /en/post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_3c36669af24a657d5d18c6161ab45c03.webp 400w,
                /en/post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_723bb7c379cd9a8989796d9200889143.webp 760w,
                /en/post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_3c36669af24a657d5d18c6161ab45c03.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_7/Python_hu49c2b606cd182cc078304b30f4dca414_505783_3c36669af24a657d5d18c6161ab45c03.webp&#34;
                width=&#34;760&#34;
                height=&#34;391&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -833,7 +833,7 @@ I&amp;rsquo;m too lazy to write a post :)&lt;/p&gt;
                /en/post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_12859fd521a781ea5ff44560a5e355f8.webp 400w,
                /en/post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_fca18d1c2ee76781c1fc92b478aff79d.webp 760w,
                /en/post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_12859fd521a781ea5ff44560a5e355f8.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_7/JavaScript_hu95054e383b84e681e7250da1c121e0aa_26693_12859fd521a781ea5ff44560a5e355f8.webp&#34;
                width=&#34;700&#34;
                height=&#34;319&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -863,7 +863,7 @@ I&amp;rsquo;m too lazy to write a post :)&lt;/p&gt;
                /en/post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_6891753ec67db93b52ab8e06a78578ea.webp 400w,
                /en/post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_b5efbad0bd80abe35e61a2b1e67724c1.webp 760w,
                /en/post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_6891753ec67db93b52ab8e06a78578ea.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_7/Java_hu17f3c14e78f2db25e9ba78bf64aea76b_51684_6891753ec67db93b52ab8e06a78578ea.webp&#34;
                width=&#34;760&#34;
                height=&#34;443&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -893,7 +893,7 @@ I&amp;rsquo;m too lazy to write a post :)&lt;/p&gt;
                /en/post/post_7/C 400w,
                /en/post/post_7/C 760w,
                /en/post/post_7/C 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_7/C&#34;
+               src=&#34;http://localhost:1313/en/post/post_7/C&#34;
                width=&#34;760&#34;
                height=&#34;345&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -923,7 +923,7 @@ I&amp;rsquo;m too lazy to write a post :)&lt;/p&gt;
                /en/post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_b2f4b9c41bc14f813da5dc136197e56a.webp 400w,
                /en/post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_7ffd4df88b127a02c972aa72f96b9e80.webp 760w,
                /en/post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_b2f4b9c41bc14f813da5dc136197e56a.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_7/Kotlin_hu4013986cd5e85be37ba0788b41f2f2b8_10456_b2f4b9c41bc14f813da5dc136197e56a.webp&#34;
                width=&#34;760&#34;
                height=&#34;223&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -953,7 +953,7 @@ I&amp;rsquo;m too lazy to write a post :)&lt;/p&gt;
                /en/post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_686acc91193da9b036a92f681d08aeac.webp 400w,
                /en/post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_684d5c7907250f929512aab6699a3ee6.webp 760w,
                /en/post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_686acc91193da9b036a92f681d08aeac.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_7/Swift_hu666da3284bba9119c2a9584dd35fcfdc_14590_686acc91193da9b036a92f681d08aeac.webp&#34;
                width=&#34;760&#34;
                height=&#34;234&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -983,7 +983,7 @@ I&amp;rsquo;m too lazy to write a post :)&lt;/p&gt;
                /en/post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_77f003af9f97eaa4b73fb46608f16427.webp 400w,
                /en/post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_956ff164e37d185e28d85dafe20dd20b.webp 760w,
                /en/post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_77f003af9f97eaa4b73fb46608f16427.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_7/Go_hu171a797f2d65b4bd5e84e2d144c4a96d_10901_77f003af9f97eaa4b73fb46608f16427.webp&#34;
                width=&#34;760&#34;
                height=&#34;286&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1036,7 +1036,7 @@ I&amp;rsquo;m too lazy to write a post :)&lt;/p&gt;
                /en/post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_8761a49a894f653ce4017c87f3d3743d.webp 400w,
                /en/post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_7957a1395cd022df2ae35df1d07062c1.webp 760w,
                /en/post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_8761a49a894f653ce4017c87f3d3743d.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_7/TypeScript_huf984d056b548e4e63bbc41c639d029fe_16523_8761a49a894f653ce4017c87f3d3743d.webp&#34;
                width=&#34;760&#34;
                height=&#34;187&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1066,7 +1066,7 @@ I&amp;rsquo;m too lazy to write a post :)&lt;/p&gt;
                /en/post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_3e65d82f44e09b17ec6dc4cc6db9791c.webp 400w,
                /en/post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_6aab8f07245c94cfca33f2a602a22578.webp 760w,
                /en/post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://katerok27153.github.io/en/post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_3e65d82f44e09b17ec6dc4cc6db9791c.webp&#34;
+               src=&#34;http://localhost:1313/en/post/post_7/Ruby_huf1566dc3908f2a93bfe8ac9f6c2112fc_571448_3e65d82f44e09b17ec6dc4cc6db9791c.webp&#34;
                width=&#34;760&#34;
                height=&#34;309&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
